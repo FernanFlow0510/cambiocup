@@ -3,7 +3,7 @@
 //
 // Configure the URL by editing DATA_URL below OR by setting localStorage.cc_data_url.
 
-const DEFAULT_DATA_URL = ''https://raw.githubusercontent.com/FernanFlow0510/cambiocup/main/banco_dados_historicos_fiat.json''; // e.g. 'https://my-bucket.r2.dev/banco_dados_historicos_fiat.json'
+const DEFAULT_DATA_URL = 'https://raw.githubusercontent.com/FernanFlow0510/cambiocup/main/banco_dados_historicos_fiat.json'; // e.g. 'https://my-bucket.r2.dev/banco_dados_historicos_fiat.json'
 
 function getDataUrl() {
   return localStorage.getItem('cc_data_url') || DEFAULT_DATA_URL;
