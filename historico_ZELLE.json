@@ -1,0 +1,21 @@
+[
+    {
+        "_id": "2025-01-28",
+        "avg": 340.0,
+        "count_values": 1,
+        "cur": "ZELLE",
+        "first": {
+            "date": "2025-01-28 12:00:00",
+            "value": 340.0
+        },
+        "last": {
+            "date": "2025-01-28 12:00:00",
+            "value": 340.0
+        },
+        "max": 340.0,
+        "median": 340.0,
+        "min": 340.0,
+        "offer": "General",
+        "trmi": "true"
+    }
+]

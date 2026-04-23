@@ -1,0 +1,116 @@
+[
+    {
+        "_id": "2022-02-21",
+        "avg": 100.0,
+        "count_values": 1,
+        "cur": "TROP",
+        "first": {
+            "date": "2022-02-21 12:00:00",
+            "value": 100.0
+        },
+        "last": {
+            "date": "2022-02-21 12:00:00",
+            "value": 100.0
+        },
+        "max": 100.0,
+        "median": 100.0,
+        "min": 100.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2022-04-17",
+        "avg": 110.0,
+        "count_values": 1,
+        "cur": "TROP",
+        "first": {
+            "date": "2022-04-17 12:00:00",
+            "value": 110.0
+        },
+        "last": {
+            "date": "2022-04-17 12:00:00",
+            "value": 110.0
+        },
+        "max": 110.0,
+        "median": 110.0,
+        "min": 110.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2022-06-06",
+        "avg": 95.0,
+        "count_values": 1,
+        "cur": "TROP",
+        "first": {
+            "date": "2022-06-06 12:00:00",
+            "value": 95.0
+        },
+        "last": {
+            "date": "2022-06-06 12:00:00",
+            "value": 95.0
+        },
+        "max": 95.0,
+        "median": 95.0,
+        "min": 95.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-03-26",
+        "avg": 500.0,
+        "count_values": 1,
+        "cur": "TROP",
+        "first": {
+            "date": "2026-03-26 12:00:00",
+            "value": 500.0
+        },
+        "last": {
+            "date": "2026-03-26 12:00:00",
+            "value": 500.0
+        },
+        "max": 500.0,
+        "median": 500.0,
+        "min": 500.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-04-21",
+        "avg": 558.33,
+        "count_values": 33,
+        "cur": "TROP",
+        "first": {
+            "date": "2026-04-21 10:28:42",
+            "value": 560.0
+        },
+        "last": {
+            "date": "2026-04-21 22:34:01",
+            "value": 560.0
+        },
+        "max": 560.0,
+        "median": 560.0,
+        "min": 505.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-04-22",
+        "avg": 561.96,
+        "count_values": 28,
+        "cur": "TROP",
+        "first": {
+            "date": "2026-04-22 07:31:01",
+            "value": 560.0
+        },
+        "last": {
+            "date": "2026-04-22 20:03:01",
+            "value": 565.0
+        },
+        "max": 565.0,
+        "median": 565.0,
+        "min": 510.0,
+        "offer": "General",
+        "trmi": "true"
+    }
+]

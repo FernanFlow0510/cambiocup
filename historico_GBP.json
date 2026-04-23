@@ -1,0 +1,97 @@
+[
+    {
+        "_id": "2021-02-05",
+        "avg": 64.0,
+        "count_values": 1,
+        "cur": "GBP",
+        "first": {
+            "date": "2021-02-05 12:00:00",
+            "value": 64.0
+        },
+        "last": {
+            "date": "2021-02-05 12:00:00",
+            "value": 64.0
+        },
+        "max": 64.0,
+        "median": 64.0,
+        "min": 64.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2021-03-14",
+        "avg": 66.0,
+        "count_values": 1,
+        "cur": "GBP",
+        "first": {
+            "date": "2021-03-14 12:00:00",
+            "value": 66.0
+        },
+        "last": {
+            "date": "2021-03-14 12:00:00",
+            "value": 66.0
+        },
+        "max": 66.0,
+        "median": 66.0,
+        "min": 66.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2021-03-15",
+        "avg": 66.0,
+        "count_values": 1,
+        "cur": "GBP",
+        "first": {
+            "date": "2021-03-15 12:00:00",
+            "value": 66.0
+        },
+        "last": {
+            "date": "2021-03-15 12:00:00",
+            "value": 66.0
+        },
+        "max": 66.0,
+        "median": 66.0,
+        "min": 66.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2021-04-15",
+        "avg": 69.0,
+        "count_values": 1,
+        "cur": "GBP",
+        "first": {
+            "date": "2021-04-15 12:00:00",
+            "value": 69.0
+        },
+        "last": {
+            "date": "2021-04-15 12:00:00",
+            "value": 69.0
+        },
+        "max": 69.0,
+        "median": 69.0,
+        "min": 69.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2021-05-10",
+        "avg": 75.0,
+        "count_values": 1,
+        "cur": "GBP",
+        "first": {
+            "date": "2021-05-10 12:00:00",
+            "value": 75.0
+        },
+        "last": {
+            "date": "2021-05-10 12:00:00",
+            "value": 75.0
+        },
+        "max": 75.0,
+        "median": 75.0,
+        "min": 75.0,
+        "offer": "General",
+        "trmi": "true"
+    }
+]

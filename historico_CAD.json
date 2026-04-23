@@ -1,0 +1,78 @@
+[
+    {
+        "_id": "2020-07-17",
+        "avg": 28.0,
+        "count_values": 1,
+        "cur": "CAD",
+        "first": {
+            "date": "2020-07-17 12:00:00",
+            "value": 28.0
+        },
+        "last": {
+            "date": "2020-07-17 12:00:00",
+            "value": 28.0
+        },
+        "max": 28.0,
+        "median": 28.0,
+        "min": 28.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2020-08-31",
+        "avg": 30.0,
+        "count_values": 1,
+        "cur": "CAD",
+        "first": {
+            "date": "2020-08-31 12:00:00",
+            "value": 30.0
+        },
+        "last": {
+            "date": "2020-08-31 12:00:00",
+            "value": 30.0
+        },
+        "max": 30.0,
+        "median": 30.0,
+        "min": 30.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-04-21",
+        "avg": 350.0,
+        "count_values": 12,
+        "cur": "CAD",
+        "first": {
+            "date": "2026-04-21 11:52:07",
+            "value": 350.0
+        },
+        "last": {
+            "date": "2026-04-21 12:26:23",
+            "value": 350.0
+        },
+        "max": 350.0,
+        "median": 350.0,
+        "min": 350.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-04-22",
+        "avg": 355.0,
+        "count_values": 1,
+        "cur": "CAD",
+        "first": {
+            "date": "2026-04-22 12:00:00",
+            "value": 355.0
+        },
+        "last": {
+            "date": "2026-04-22 12:00:00",
+            "value": 355.0
+        },
+        "max": 355.0,
+        "median": 355.0,
+        "min": 355.0,
+        "offer": "General",
+        "trmi": "true"
+    }
+]
