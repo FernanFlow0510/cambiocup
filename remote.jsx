@@ -56,16 +56,22 @@ function transformNewFormat(entries) {
     .filter(e => e._id && e.avg != null)
     .sort((a, b) => a._id.localeCompare(b._id));
   if (!sorted.length) return null;
-  return sorted.map(e => ({
-    d:        e._id,
-    compra:   Number(e.avg_bayes ?? e.avg),
-    venda:    Number(e.avg_bayes ?? e.avg),
-    ema:      e.ema    != null ? Number(e.ema)    : undefined,
-    ci_low:   e.ci_low != null ? Number(e.ci_low) : undefined,
-    ci_high:  e.ci_high != null ? Number(e.ci_high): undefined,
-    n:        e.count_values ?? 0,
-    estimated: e.trmi === 'estimated',
-  }));
+  return sorted.map(e => {
+    // Pipeline: mediana → EWMA → preço principal
+    const price = Number(e.ema ?? e.median ?? e.avg_bayes ?? e.avg);
+    return {
+      d:         e._id,
+      compra:    price,
+      venda:     price,
+      ema:       e.ema     != null ? Number(e.ema)     : undefined,
+      ci_low:    e.ci_low  != null ? Number(e.ci_low)  : undefined,
+      ci_high:   e.ci_high != null ? Number(e.ci_high) : undefined,
+      day_min:   e.min     != null ? Number(e.min)     : undefined,
+      day_max:   e.max     != null ? Number(e.max)     : undefined,
+      n:         e.count_values ?? 0,
+      estimated: e.trmi === 'estimated',
+    };
+  });
 }
 
 // ── Legacy format ────────────────────────────────────────────────────────────

@@ -399,10 +399,27 @@ function DetailScreen({ code, theme, t, lang, onBack, onCompare, onAlert }) {
         ))}
       </div>
 
-      {/* Compra / Venta prominent */}
-      <div style={{ padding: '0 20px 16px', display: 'flex', gap: 10 }}>
+      {/* Preço principal (mediana EWMA) + contexto do dia */}
+      <div style={{ padding: '0 20px 16px' }}>
         <BigPriceCard theme={theme} label={t.buy} value={c.compra} prev={c.prev_compra} color={theme.accent}/>
-        <BigPriceCard theme={theme} label={t.sell} value={c.venda} prev={c.prev_venda} color={theme.accent}/>
+        {(() => {
+          const last = c.history?.[c.history.length - 1];
+          if (!last) return null;
+          const hasRange = last.day_min != null && last.day_max != null;
+          const n = last.n ?? 0;
+          return (
+            <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+              {hasRange && (
+                <InfoTile theme={theme}
+                  label={lang === 'es' ? 'Rango hoy' : 'Intervalo hoje'}
+                  value={`${formatCUP(last.day_min, 0)} – ${formatCUP(last.day_max, 0)}`}/>
+              )}
+              <InfoTile theme={theme}
+                label={lang === 'es' ? 'Reportes' : 'Reportes'}
+                value={n > 0 ? String(n) : '—'}/>
+            </div>
+          );
+        })()}
       </div>
 
       {/* Statistics section */}
