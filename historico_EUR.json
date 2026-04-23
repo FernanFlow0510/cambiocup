@@ -13757,20 +13757,20 @@
     },
     {
         "_id": "2026-04-22",
-        "avg": 577.45,
-        "count_values": 192,
+        "avg": 635.0,
+        "count_values": 2,
         "cur": "EUR",
         "first": {
             "date": "2026-04-21 07:34:00",
             "value": 600.0
         },
         "last": {
-            "date": "2026-04-22 20:05:30",
-            "value": 610.0
+            "date": "2026-04-22 22:04:01",
+            "value": 635.0
         },
         "max": 635.0,
-        "median": 600.0,
-        "min": 500.0,
+        "median": 635.0,
+        "min": 635.0,
         "offer": "General",
         "trmi": "true"
     }
