@@ -1,7 +1,7 @@
 // Service Worker — Cambio CUP PWA
 // Cache-first for shell, network-first for dynamic JSON data.
 
-const CACHE_VERSION = 'cambio-cup-v1';
+const CACHE_VERSION = 'cambio-cup-v2';
 const SHELL_FILES = [
   './',
   './Cambio CUP.html',
@@ -33,7 +33,8 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
 
   // Network-first for the live JSON (price data)
-  if (url.pathname.endsWith('banco_dados_historicos_fiat.json')) {
+  if (url.pathname.endsWith('banco_dados_historicos_fiat.json') ||
+      url.pathname.match(/historico_\w+\.json$/)) {
     e.respondWith(
       fetch(e.request).then(res => {
         const clone = res.clone();
