@@ -13697,5 +13697,30 @@
         "min": 530.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-04-23",
+        "avg": 530.0,
+        "avg_bayes": 530.0,
+        "ema": 534.5,
+        "alpha": 0.1,
+        "mad": 0.0,
+        "ci_low": 530.0,
+        "ci_high": 530.0,
+        "count_values": 1,
+        "cur": "USD",
+        "first": {
+            "date": "2026-04-23 06:44:57",
+            "value": 530.0
+        },
+        "last": {
+            "date": "2026-04-23 19:14:35",
+            "value": 530.0
+        },
+        "max": 530.0,
+        "median": 530.0,
+        "min": 530.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
