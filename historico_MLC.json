@@ -13738,20 +13738,20 @@
     },
     {
         "_id": "2026-04-22",
-        "avg": 437.33,
-        "count_values": 30,
+        "avg": 440.0,
+        "count_values": 2,
         "cur": "MLC",
         "first": {
             "date": "2026-04-21 07:53:35",
             "value": 445.0
         },
         "last": {
-            "date": "2026-04-22 20:03:01",
+            "date": "2026-04-22 22:04:01",
             "value": 440.0
         },
         "max": 440.0,
         "median": 440.0,
-        "min": 360.0,
+        "min": 440.0,
         "offer": "General",
         "trmi": "true"
     }
