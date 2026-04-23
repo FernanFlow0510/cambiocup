@@ -13716,5 +13716,30 @@
         "min": 29.24,
         "offer": "General",
         "trmi": "estimated"
+    },
+    {
+        "_id": "2026-04-23",
+        "avg": 32.0,
+        "avg_bayes": 29.49,
+        "ema": 29.52,
+        "alpha": 0.1,
+        "mad": 0.0,
+        "ci_low": 32.0,
+        "ci_high": 32.0,
+        "count_values": 2,
+        "cur": "MXN",
+        "first": {
+            "date": "2026-04-23 12:00:00",
+            "value": 32.0
+        },
+        "last": {
+            "date": "2026-04-23 19:23:14",
+            "value": 32.0
+        },
+        "max": 32.0,
+        "median": 32.0,
+        "min": 32.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
