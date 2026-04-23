@@ -423,6 +423,49 @@ function DetailScreen({ code, theme, t, lang, onBack, onCompare, onAlert }) {
         </div>
       </div>
 
+      {/* Intervalo de confiança do último dia */}
+      {(() => {
+        const last = c.history[c.history.length - 1];
+        if (!last || last.ci_low == null || last.ci_high == null) return null;
+        const n = last.n ?? 0;
+        const width = last.ci_high - last.ci_low;
+        return (
+          <div style={{ padding: '0 20px 16px' }}>
+            <div style={{
+              background: theme.surface, borderRadius: 16, padding: '12px 16px',
+              border: `1px solid ${theme.border}`,
+            }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
+                <span style={{ color: theme.textDim, fontSize: 12, fontWeight: 600 }}>
+                  {t.confidence}
+                </span>
+                <span style={{ color: theme.textDim, fontSize: 12 }}>
+                  {t.observations}: {n}
+                </span>
+              </div>
+              {/* Barra CI */}
+              <div style={{ position: 'relative', height: 8, borderRadius: 4, background: theme.border }}>
+                <div style={{
+                  position: 'absolute',
+                  left: 0, right: 0, top: 0, bottom: 0,
+                  borderRadius: 4,
+                  background: `linear-gradient(90deg, ${theme.accentSoft}, ${theme.accent}88, ${theme.accentSoft})`,
+                }}/>
+              </div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: 4 }}>
+                <span style={{ color: theme.text, fontSize: 12, fontFamily: 'JetBrains Mono, monospace' }}>
+                  {formatCUP(last.ci_low, 0)}
+                </span>
+                <span style={{ color: theme.textDim, fontSize: 11 }}>±{(width / 2).toFixed(0)}</span>
+                <span style={{ color: theme.text, fontSize: 12, fontFamily: 'JetBrains Mono, monospace' }}>
+                  {formatCUP(last.ci_high, 0)}
+                </span>
+              </div>
+            </div>
+          </div>
+        );
+      })()}
+
       {/* Spread + sources */}
       <div style={{ padding: '0 20px 16px', display: 'flex', gap: 10 }}>
         <InfoTile theme={theme} label={t.spread} value={`${(c.venda - c.compra).toFixed(2)} CUP`}/>

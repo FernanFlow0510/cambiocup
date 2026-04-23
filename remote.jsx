@@ -57,9 +57,14 @@ function transformNewFormat(entries) {
     .sort((a, b) => a._id.localeCompare(b._id));
   if (!sorted.length) return null;
   return sorted.map(e => ({
-    d:      e._id,
-    compra: Number(e.avg),
-    venda:  Number(e.avg),
+    d:        e._id,
+    compra:   Number(e.avg_bayes ?? e.avg),
+    venda:    Number(e.avg_bayes ?? e.avg),
+    ema:      e.ema    != null ? Number(e.ema)    : undefined,
+    ci_low:   e.ci_low != null ? Number(e.ci_low) : undefined,
+    ci_high:  e.ci_high != null ? Number(e.ci_high): undefined,
+    n:        e.count_values ?? 0,
+    estimated: e.trmi === 'estimated',
   }));
 }
 
