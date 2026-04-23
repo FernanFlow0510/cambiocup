@@ -13758,19 +13758,45 @@
     {
         "_id": "2026-04-22",
         "avg": 635.0,
-        "count_values": 2,
+        "ema": 615.66,
+        "count_values": 1,
         "cur": "EUR",
         "first": {
             "date": "2026-04-21 07:34:00",
             "value": 600.0
         },
         "last": {
-            "date": "2026-04-22 22:04:01",
+            "date": "2026-04-22 23:03:01",
             "value": 635.0
         },
         "max": 635.0,
         "median": 635.0,
         "min": 635.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-04-23",
+        "avg": 600.0,
+        "avg_bayes": 600.0,
+        "ema": 614.09,
+        "alpha": 0.1,
+        "mad": 0.0,
+        "ci_low": 600.0,
+        "ci_high": 600.0,
+        "count_values": 1,
+        "cur": "EUR",
+        "first": {
+            "date": "2026-04-23 06:44:57",
+            "value": 600.0
+        },
+        "last": {
+            "date": "2026-04-23 18:56:19",
+            "value": 600.0
+        },
+        "max": 600.0,
+        "median": 600.0,
+        "min": 600.0,
         "offer": "General",
         "trmi": "true"
     }
