@@ -13735,5 +13735,30 @@
         "min": 355.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-04-23",
+        "avg": 350.0,
+        "avg_bayes": 351.29,
+        "ema": 354.5,
+        "alpha": 0.1,
+        "mad": 0.0,
+        "ci_low": 350.0,
+        "ci_high": 350.0,
+        "count_values": 1,
+        "cur": "CAD",
+        "first": {
+            "date": "2026-04-23 09:04:10",
+            "value": 355.0
+        },
+        "last": {
+            "date": "2026-04-23 18:56:19",
+            "value": 350.0
+        },
+        "max": 350.0,
+        "median": 350.0,
+        "min": 350.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
