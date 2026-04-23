@@ -1502,20 +1502,20 @@
     },
     {
         "_id": "2026-04-22",
-        "avg": 557.78,
-        "count_values": 9,
+        "avg": 565.0,
+        "count_values": 2,
         "cur": "CLA",
         "first": {
             "date": "2026-04-22 07:31:01",
             "value": 560.0
         },
         "last": {
-            "date": "2026-04-22 20:03:01",
+            "date": "2026-04-22 22:04:01",
             "value": 565.0
         },
         "max": 565.0,
-        "median": 560.0,
-        "min": 520.0,
+        "median": 565.0,
+        "min": 565.0,
         "offer": "General",
         "trmi": "true"
     }
