@@ -13697,5 +13697,30 @@
         "min": 100.0,
         "offer": "General",
         "trmi": "estimated"
+    },
+    {
+        "_id": "2026-04-23",
+        "avg": 110.0,
+        "avg_bayes": 100.92,
+        "ema": 101.0,
+        "alpha": 0.1,
+        "mad": 0.0,
+        "ci_low": 110.0,
+        "ci_high": 110.0,
+        "count_values": 2,
+        "cur": "BRL",
+        "first": {
+            "date": "2026-04-23 12:00:00",
+            "value": 110.0
+        },
+        "last": {
+            "date": "2026-04-23 19:23:14",
+            "value": 110.0
+        },
+        "max": 110.0,
+        "median": 110.0,
+        "min": 110.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
