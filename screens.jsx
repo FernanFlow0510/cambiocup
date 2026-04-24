@@ -25,6 +25,12 @@ function HomeScreen({ theme, t, lang, onSelect, onNav }) {
 
   const activeCount = CURRENCIES.filter(c => c.active).length;
 
+  const globalLastRaw = CURRENCIES.reduce((best, c) => {
+    if (!c.lastDatetimeRaw) return best;
+    return (!best || c.lastDatetimeRaw > best) ? c.lastDatetimeRaw : best;
+  }, null);
+  const globalLastDisplay = globalLastRaw ? formatDatetimeShort(globalLastRaw) : '–';
+
   return (
     <div style={{ padding: '8px 0 120px', background: theme.bg }}>
       {/* Greeting + live pill */}
@@ -52,7 +58,7 @@ function HomeScreen({ theme, t, lang, onSelect, onNav }) {
       {/* Stat strip */}
       <div style={{ padding: '0 20px 16px', display: 'flex', gap: 10 }}>
         <StatPill theme={theme} label={t.total_tracked} value={`${activeCount}/${CURRENCIES.length}`} mono/>
-        <StatPill theme={theme} label={lang === 'es' ? 'última señal' : 'último sinal'} value="1 min" accent/>
+        <StatPill theme={theme} label={lang === 'es' ? 'última señal' : 'último sinal'} value={globalLastDisplay} accent/>
       </div>
 
       {/* Quick converter card */}
@@ -214,7 +220,10 @@ function CurrencySelector({ theme, value, onChange }) {
 function CurrencyCard({ c, theme, t, lang, onClick, compact = false }) {
   const pct = pctChange(c.venda, c.prev_venda);
   const up = pct >= 0;
-  const spread = c.venda - c.compra;
+  const isToday = c.lastDatetimeRaw
+    ? c.lastDatetimeRaw.slice(0, 10) === new Date().toISOString().slice(0, 10)
+    : false;
+  const dateLabel = c.lastDatetimeRaw ? formatDatetimeShort(c.lastDatetimeRaw) : null;
   return (
     <div onClick={onClick} style={{
       background: theme.surface, borderRadius: 16, padding: 14, marginBottom: 8,
@@ -250,6 +259,15 @@ function CurrencyCard({ c, theme, t, lang, onClick, compact = false }) {
           <Icon name={up ? 'arrowUp' : 'arrowDown'} size={10} strokeWidth={2.5}/>
           {formatPct(Math.abs(pct))}
         </div>
+        {dateLabel && (
+          <div style={{
+            fontSize: 9, fontFamily: FONT_MONO, letterSpacing: 0.2,
+            color: isToday ? theme.textFaint : theme.down,
+            fontWeight: isToday ? 500 : 700,
+          }}>
+            {dateLabel}
+          </div>
+        )}
       </div>
     </div>
   );
