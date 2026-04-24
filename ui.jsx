@@ -232,9 +232,6 @@ function formatDatetimeShort(datetimeStr) {
   if (isNaN(d)) return '–';
   const hh = d.getHours().toString().padStart(2, '0');
   const mm = d.getMinutes().toString().padStart(2, '0');
-  const todayStr = new Date().toISOString().slice(0, 10);
-  const entryStr = datetimeStr.slice(0, 10);
-  if (entryStr === todayStr) return `${hh}:${mm}`;
   const months = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
   return `${d.getDate()} ${months[d.getMonth()]} ${hh}:${mm}`;
 }
