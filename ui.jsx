@@ -226,6 +226,19 @@ function pctChange(curr, prev) {
   return ((curr - prev) / prev) * 100;
 }
 
+function formatDatetimeShort(datetimeStr) {
+  if (!datetimeStr) return '–';
+  const d = new Date(datetimeStr.replace(' ', 'T'));
+  if (isNaN(d)) return '–';
+  const hh = d.getHours().toString().padStart(2, '0');
+  const mm = d.getMinutes().toString().padStart(2, '0');
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const entryStr = datetimeStr.slice(0, 10);
+  if (entryStr === todayStr) return `${hh}:${mm}`;
+  const months = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+  return `${d.getDate()} ${months[d.getMonth()]} ${hh}:${mm}`;
+}
+
 function formatPct(p) {
   const sign = p > 0 ? '+' : '';
   return `${sign}${p.toFixed(2)}%`;
@@ -234,5 +247,5 @@ function formatPct(p) {
 Object.assign(window, {
   THEMES, FONT, FONT_MONO,
   Icon, CurrencyBadge, Sparkline, AreaChart, PulseDot,
-  formatCUP, pctChange, formatPct,
+  formatCUP, pctChange, formatPct, formatDatetimeShort,
 });
