@@ -1,24 +1,5 @@
 [
     {
-        "_id": "2021-05-12",
-        "avg": 2.7,
-        "count_values": 1,
-        "cur": "MXN",
-        "first": {
-            "date": "2021-05-12 12:00:00",
-            "value": 2.7
-        },
-        "last": {
-            "date": "2021-05-12 12:00:00",
-            "value": 2.7
-        },
-        "max": 2.7,
-        "median": 2.7,
-        "min": 2.7,
-        "offer": "General",
-        "trmi": "true"
-    },
-    {
         "_id": "2024-04-23",
         "avg": 19.85,
         "count_values": 0,
@@ -96,39 +77,39 @@
     },
     {
         "_id": "2024-04-27",
-        "avg": 20.2,
+        "avg": 20.19,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-04-27 12:00:00",
-            "value": 20.2
+            "value": 20.19
         },
         "last": {
             "date": "2024-04-27 12:00:00",
-            "value": 20.2
+            "value": 20.19
         },
-        "max": 20.2,
-        "median": 20.2,
-        "min": 20.2,
+        "max": 20.19,
+        "median": 20.19,
+        "min": 20.19,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2024-04-28",
-        "avg": 20.23,
+        "avg": 20.22,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-04-28 12:00:00",
-            "value": 20.23
+            "value": 20.22
         },
         "last": {
             "date": "2024-04-28 12:00:00",
-            "value": 20.23
+            "value": 20.22
         },
-        "max": 20.23,
-        "median": 20.23,
-        "min": 20.23,
+        "max": 20.22,
+        "median": 20.22,
+        "min": 20.22,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -210,20 +191,20 @@
     },
     {
         "_id": "2024-05-03",
-        "avg": 20.95,
+        "avg": 20.94,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-05-03 12:00:00",
-            "value": 20.95
+            "value": 20.94
         },
         "last": {
             "date": "2024-05-03 12:00:00",
-            "value": 20.95
+            "value": 20.94
         },
-        "max": 20.95,
-        "median": 20.95,
-        "min": 20.95,
+        "max": 20.94,
+        "median": 20.94,
+        "min": 20.94,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -305,20 +286,20 @@
     },
     {
         "_id": "2024-05-08",
-        "avg": 21.48,
+        "avg": 21.47,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-05-08 12:00:00",
-            "value": 21.48
+            "value": 21.47
         },
         "last": {
             "date": "2024-05-08 12:00:00",
-            "value": 21.48
+            "value": 21.47
         },
-        "max": 21.48,
-        "median": 21.48,
-        "min": 21.48,
+        "max": 21.47,
+        "median": 21.47,
+        "min": 21.47,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -514,20 +495,20 @@
     },
     {
         "_id": "2024-05-19",
-        "avg": 20.76,
+        "avg": 20.75,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-05-19 12:00:00",
-            "value": 20.76
+            "value": 20.75
         },
         "last": {
             "date": "2024-05-19 12:00:00",
-            "value": 20.76
+            "value": 20.75
         },
-        "max": 20.76,
-        "median": 20.76,
-        "min": 20.76,
+        "max": 20.75,
+        "median": 20.75,
+        "min": 20.75,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -742,39 +723,39 @@
     },
     {
         "_id": "2024-05-31",
-        "avg": 16.21,
+        "avg": 16.2,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-05-31 12:00:00",
-            "value": 16.21
+            "value": 16.2
         },
         "last": {
             "date": "2024-05-31 12:00:00",
-            "value": 16.21
+            "value": 16.2
         },
-        "max": 16.21,
-        "median": 16.21,
-        "min": 16.21,
+        "max": 16.2,
+        "median": 16.2,
+        "min": 16.2,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2024-06-01",
-        "avg": 15.82,
+        "avg": 15.81,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-06-01 12:00:00",
-            "value": 15.82
+            "value": 15.81
         },
         "last": {
             "date": "2024-06-01 12:00:00",
-            "value": 15.82
+            "value": 15.81
         },
-        "max": 15.82,
-        "median": 15.82,
-        "min": 15.82,
+        "max": 15.81,
+        "median": 15.81,
+        "min": 15.81,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -1464,20 +1445,20 @@
     },
     {
         "_id": "2024-07-10",
-        "avg": 18.46,
+        "avg": 18.45,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-07-10 12:00:00",
-            "value": 18.46
+            "value": 18.45
         },
         "last": {
             "date": "2024-07-10 12:00:00",
-            "value": 18.46
+            "value": 18.45
         },
-        "max": 18.46,
-        "median": 18.46,
-        "min": 18.46,
+        "max": 18.45,
+        "median": 18.45,
+        "min": 18.45,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -1502,20 +1483,20 @@
     },
     {
         "_id": "2024-07-12",
-        "avg": 18.16,
+        "avg": 18.15,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-07-12 12:00:00",
-            "value": 18.16
+            "value": 18.15
         },
         "last": {
             "date": "2024-07-12 12:00:00",
-            "value": 18.16
+            "value": 18.15
         },
-        "max": 18.16,
-        "median": 18.16,
-        "min": 18.16,
+        "max": 18.15,
+        "median": 18.15,
+        "min": 18.15,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -1559,20 +1540,20 @@
     },
     {
         "_id": "2024-07-15",
-        "avg": 17.42,
+        "avg": 17.41,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-07-15 12:00:00",
-            "value": 17.42
+            "value": 17.41
         },
         "last": {
             "date": "2024-07-15 12:00:00",
-            "value": 17.42
+            "value": 17.41
         },
-        "max": 17.42,
-        "median": 17.42,
-        "min": 17.42,
+        "max": 17.41,
+        "median": 17.41,
+        "min": 17.41,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -1616,39 +1597,39 @@
     },
     {
         "_id": "2024-07-18",
-        "avg": 16.68,
+        "avg": 16.67,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-07-18 12:00:00",
-            "value": 16.68
+            "value": 16.67
         },
         "last": {
             "date": "2024-07-18 12:00:00",
-            "value": 16.68
+            "value": 16.67
         },
-        "max": 16.68,
-        "median": 16.68,
-        "min": 16.68,
+        "max": 16.67,
+        "median": 16.67,
+        "min": 16.67,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2024-07-19",
-        "avg": 16.54,
+        "avg": 16.53,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-07-19 12:00:00",
-            "value": 16.54
+            "value": 16.53
         },
         "last": {
             "date": "2024-07-19 12:00:00",
-            "value": 16.54
+            "value": 16.53
         },
-        "max": 16.54,
-        "median": 16.54,
-        "min": 16.54,
+        "max": 16.53,
+        "median": 16.53,
+        "min": 16.53,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -1844,20 +1825,20 @@
     },
     {
         "_id": "2024-07-30",
-        "avg": 18.34,
+        "avg": 18.33,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-07-30 12:00:00",
-            "value": 18.34
+            "value": 18.33
         },
         "last": {
             "date": "2024-07-30 12:00:00",
-            "value": 18.34
+            "value": 18.33
         },
-        "max": 18.34,
-        "median": 18.34,
-        "min": 18.34,
+        "max": 18.33,
+        "median": 18.33,
+        "min": 18.33,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -1920,20 +1901,20 @@
     },
     {
         "_id": "2024-08-03",
-        "avg": 17.66,
+        "avg": 17.65,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-08-03 12:00:00",
-            "value": 17.66
+            "value": 17.65
         },
         "last": {
             "date": "2024-08-03 12:00:00",
-            "value": 17.66
+            "value": 17.65
         },
-        "max": 17.66,
-        "median": 17.66,
-        "min": 17.66,
+        "max": 17.65,
+        "median": 17.65,
+        "min": 17.65,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2167,20 +2148,20 @@
     },
     {
         "_id": "2024-08-16",
-        "avg": 17.51,
+        "avg": 17.5,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-08-16 12:00:00",
-            "value": 17.51
+            "value": 17.5
         },
         "last": {
             "date": "2024-08-16 12:00:00",
-            "value": 17.51
+            "value": 17.5
         },
-        "max": 17.51,
-        "median": 17.51,
-        "min": 17.51,
+        "max": 17.5,
+        "median": 17.5,
+        "min": 17.5,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2357,20 +2338,20 @@
     },
     {
         "_id": "2024-08-26",
-        "avg": 17.54,
+        "avg": 17.53,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-08-26 12:00:00",
-            "value": 17.54
+            "value": 17.53
         },
         "last": {
             "date": "2024-08-26 12:00:00",
-            "value": 17.54
+            "value": 17.53
         },
-        "max": 17.54,
-        "median": 17.54,
-        "min": 17.54,
+        "max": 17.53,
+        "median": 17.53,
+        "min": 17.53,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2471,20 +2452,20 @@
     },
     {
         "_id": "2024-09-01",
-        "avg": 17.56,
+        "avg": 17.55,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-01 12:00:00",
-            "value": 17.56
+            "value": 17.55
         },
         "last": {
             "date": "2024-09-01 12:00:00",
-            "value": 17.56
+            "value": 17.55
         },
-        "max": 17.56,
-        "median": 17.56,
-        "min": 17.56,
+        "max": 17.55,
+        "median": 17.55,
+        "min": 17.55,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2699,20 +2680,20 @@
     },
     {
         "_id": "2024-09-14",
-        "avg": 17.54,
+        "avg": 17.53,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-14 12:00:00",
-            "value": 17.54
+            "value": 17.53
         },
         "last": {
             "date": "2024-09-14 12:00:00",
-            "value": 17.54
+            "value": 17.53
         },
-        "max": 17.54,
-        "median": 17.54,
-        "min": 17.54,
+        "max": 17.53,
+        "median": 17.53,
+        "min": 17.53,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2794,20 +2775,20 @@
     },
     {
         "_id": "2024-09-19",
-        "avg": 17.59,
+        "avg": 17.58,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-19 12:00:00",
-            "value": 17.59
+            "value": 17.58
         },
         "last": {
             "date": "2024-09-19 12:00:00",
-            "value": 17.59
+            "value": 17.58
         },
-        "max": 17.59,
-        "median": 17.59,
-        "min": 17.59,
+        "max": 17.58,
+        "median": 17.58,
+        "min": 17.58,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2832,39 +2813,39 @@
     },
     {
         "_id": "2024-09-21",
-        "avg": 17.6,
+        "avg": 17.59,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-21 12:00:00",
-            "value": 17.6
+            "value": 17.59
         },
         "last": {
             "date": "2024-09-21 12:00:00",
-            "value": 17.6
+            "value": 17.59
         },
-        "max": 17.6,
-        "median": 17.6,
-        "min": 17.6,
+        "max": 17.59,
+        "median": 17.59,
+        "min": 17.59,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2024-09-22",
-        "avg": 17.6,
+        "avg": 17.59,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-22 12:00:00",
-            "value": 17.6
+            "value": 17.59
         },
         "last": {
             "date": "2024-09-22 12:00:00",
-            "value": 17.6
+            "value": 17.59
         },
-        "max": 17.6,
-        "median": 17.6,
-        "min": 17.6,
+        "max": 17.59,
+        "median": 17.59,
+        "min": 17.59,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2889,20 +2870,20 @@
     },
     {
         "_id": "2024-09-24",
-        "avg": 17.61,
+        "avg": 17.6,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-24 12:00:00",
-            "value": 17.61
+            "value": 17.6
         },
         "last": {
             "date": "2024-09-24 12:00:00",
-            "value": 17.61
+            "value": 17.6
         },
-        "max": 17.61,
-        "median": 17.61,
-        "min": 17.61,
+        "max": 17.6,
+        "median": 17.6,
+        "min": 17.6,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -2965,58 +2946,58 @@
     },
     {
         "_id": "2024-09-28",
-        "avg": 17.62,
+        "avg": 17.61,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-28 12:00:00",
-            "value": 17.62
+            "value": 17.61
         },
         "last": {
             "date": "2024-09-28 12:00:00",
-            "value": 17.62
+            "value": 17.61
         },
-        "max": 17.62,
-        "median": 17.62,
-        "min": 17.62,
+        "max": 17.61,
+        "median": 17.61,
+        "min": 17.61,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2024-09-29",
-        "avg": 17.6,
+        "avg": 17.59,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-29 12:00:00",
-            "value": 17.6
+            "value": 17.59
         },
         "last": {
             "date": "2024-09-29 12:00:00",
-            "value": 17.6
+            "value": 17.59
         },
-        "max": 17.6,
-        "median": 17.6,
-        "min": 17.6,
+        "max": 17.59,
+        "median": 17.59,
+        "min": 17.59,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2024-09-30",
-        "avg": 17.63,
+        "avg": 17.62,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-09-30 12:00:00",
-            "value": 17.63
+            "value": 17.62
         },
         "last": {
             "date": "2024-09-30 12:00:00",
-            "value": 17.63
+            "value": 17.62
         },
-        "max": 17.63,
-        "median": 17.63,
-        "min": 17.63,
+        "max": 17.62,
+        "median": 17.62,
+        "min": 17.62,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3250,20 +3231,20 @@
     },
     {
         "_id": "2024-10-13",
-        "avg": 17.77,
+        "avg": 17.76,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-10-13 12:00:00",
-            "value": 17.77
+            "value": 17.76
         },
         "last": {
             "date": "2024-10-13 12:00:00",
-            "value": 17.77
+            "value": 17.76
         },
-        "max": 17.77,
-        "median": 17.77,
-        "min": 17.77,
+        "max": 17.76,
+        "median": 17.76,
+        "min": 17.76,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3307,20 +3288,20 @@
     },
     {
         "_id": "2024-10-16",
-        "avg": 17.81,
+        "avg": 17.8,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-10-16 12:00:00",
-            "value": 17.81
+            "value": 17.8
         },
         "last": {
             "date": "2024-10-16 12:00:00",
-            "value": 17.81
+            "value": 17.8
         },
-        "max": 17.81,
-        "median": 17.81,
-        "min": 17.81,
+        "max": 17.8,
+        "median": 17.8,
+        "min": 17.8,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3402,20 +3383,20 @@
     },
     {
         "_id": "2024-10-21",
-        "avg": 17.82,
+        "avg": 17.81,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-10-21 12:00:00",
-            "value": 17.82
+            "value": 17.81
         },
         "last": {
             "date": "2024-10-21 12:00:00",
-            "value": 17.82
+            "value": 17.81
         },
-        "max": 17.82,
-        "median": 17.82,
-        "min": 17.82,
+        "max": 17.81,
+        "median": 17.81,
+        "min": 17.81,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3497,20 +3478,20 @@
     },
     {
         "_id": "2024-10-26",
-        "avg": 17.82,
+        "avg": 17.81,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-10-26 12:00:00",
-            "value": 17.82
+            "value": 17.81
         },
         "last": {
             "date": "2024-10-26 12:00:00",
-            "value": 17.82
+            "value": 17.81
         },
-        "max": 17.82,
-        "median": 17.82,
-        "min": 17.82,
+        "max": 17.81,
+        "median": 17.81,
+        "min": 17.81,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3592,20 +3573,20 @@
     },
     {
         "_id": "2024-10-31",
-        "avg": 17.86,
+        "avg": 17.85,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-10-31 12:00:00",
-            "value": 17.86
+            "value": 17.85
         },
         "last": {
             "date": "2024-10-31 12:00:00",
-            "value": 17.86
+            "value": 17.85
         },
-        "max": 17.86,
-        "median": 17.86,
-        "min": 17.86,
+        "max": 17.85,
+        "median": 17.85,
+        "min": 17.85,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3630,20 +3611,20 @@
     },
     {
         "_id": "2024-11-02",
-        "avg": 17.86,
+        "avg": 17.85,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-11-02 12:00:00",
-            "value": 17.86
+            "value": 17.85
         },
         "last": {
             "date": "2024-11-02 12:00:00",
-            "value": 17.86
+            "value": 17.85
         },
-        "max": 17.86,
-        "median": 17.86,
-        "min": 17.86,
+        "max": 17.85,
+        "median": 17.85,
+        "min": 17.85,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3744,39 +3725,39 @@
     },
     {
         "_id": "2024-11-08",
-        "avg": 17.9,
+        "avg": 17.89,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-11-08 12:00:00",
-            "value": 17.9
+            "value": 17.89
         },
         "last": {
             "date": "2024-11-08 12:00:00",
-            "value": 17.9
+            "value": 17.89
         },
-        "max": 17.9,
-        "median": 17.9,
-        "min": 17.9,
+        "max": 17.89,
+        "median": 17.89,
+        "min": 17.89,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2024-11-09",
-        "avg": 17.9,
+        "avg": 17.89,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-11-09 12:00:00",
-            "value": 17.9
+            "value": 17.89
         },
         "last": {
             "date": "2024-11-09 12:00:00",
-            "value": 17.9
+            "value": 17.89
         },
-        "max": 17.9,
-        "median": 17.9,
-        "min": 17.9,
+        "max": 17.89,
+        "median": 17.89,
+        "min": 17.89,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3915,20 +3896,20 @@
     },
     {
         "_id": "2024-11-17",
-        "avg": 17.97,
+        "avg": 17.96,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-11-17 12:00:00",
-            "value": 17.97
+            "value": 17.96
         },
         "last": {
             "date": "2024-11-17 12:00:00",
-            "value": 17.97
+            "value": 17.96
         },
-        "max": 17.97,
-        "median": 17.97,
-        "min": 17.97,
+        "max": 17.96,
+        "median": 17.96,
+        "min": 17.96,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -3953,20 +3934,20 @@
     },
     {
         "_id": "2024-11-19",
-        "avg": 17.95,
+        "avg": 17.94,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-11-19 12:00:00",
-            "value": 17.95
+            "value": 17.94
         },
         "last": {
             "date": "2024-11-19 12:00:00",
-            "value": 17.95
+            "value": 17.94
         },
-        "max": 17.95,
-        "median": 17.95,
-        "min": 17.95,
+        "max": 17.94,
+        "median": 17.94,
+        "min": 17.94,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -4124,20 +4105,20 @@
     },
     {
         "_id": "2024-11-28",
-        "avg": 17.96,
+        "avg": 17.95,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-11-28 12:00:00",
-            "value": 17.96
+            "value": 17.95
         },
         "last": {
             "date": "2024-11-28 12:00:00",
-            "value": 17.96
+            "value": 17.95
         },
-        "max": 17.96,
-        "median": 17.96,
-        "min": 17.96,
+        "max": 17.95,
+        "median": 17.95,
+        "min": 17.95,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -4352,20 +4333,20 @@
     },
     {
         "_id": "2024-12-10",
-        "avg": 17.92,
+        "avg": 17.91,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-12-10 12:00:00",
-            "value": 17.92
+            "value": 17.91
         },
         "last": {
             "date": "2024-12-10 12:00:00",
-            "value": 17.92
+            "value": 17.91
         },
-        "max": 17.92,
-        "median": 17.92,
-        "min": 17.92,
+        "max": 17.91,
+        "median": 17.91,
+        "min": 17.91,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -4428,20 +4409,20 @@
     },
     {
         "_id": "2024-12-14",
-        "avg": 17.84,
+        "avg": 17.83,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2024-12-14 12:00:00",
-            "value": 17.84
+            "value": 17.83
         },
         "last": {
             "date": "2024-12-14 12:00:00",
-            "value": 17.84
+            "value": 17.83
         },
-        "max": 17.84,
-        "median": 17.84,
-        "min": 17.84,
+        "max": 17.83,
+        "median": 17.83,
+        "min": 17.83,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -4770,39 +4751,39 @@
     },
     {
         "_id": "2025-01-01",
-        "avg": 16.65,
+        "avg": 16.64,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-01 12:00:00",
-            "value": 16.65
+            "value": 16.64
         },
         "last": {
             "date": "2025-01-01 12:00:00",
-            "value": 16.65
+            "value": 16.64
         },
-        "max": 16.65,
-        "median": 16.65,
-        "min": 16.65,
+        "max": 16.64,
+        "median": 16.64,
+        "min": 16.64,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-01-02",
-        "avg": 16.8,
+        "avg": 16.79,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-02 12:00:00",
-            "value": 16.8
+            "value": 16.79
         },
         "last": {
             "date": "2025-01-02 12:00:00",
-            "value": 16.8
+            "value": 16.79
         },
-        "max": 16.8,
-        "median": 16.8,
-        "min": 16.8,
+        "max": 16.79,
+        "median": 16.79,
+        "min": 16.79,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -4827,39 +4808,39 @@
     },
     {
         "_id": "2025-01-04",
-        "avg": 17.28,
+        "avg": 17.27,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-04 12:00:00",
-            "value": 17.28
+            "value": 17.27
         },
         "last": {
             "date": "2025-01-04 12:00:00",
-            "value": 17.28
+            "value": 17.27
         },
-        "max": 17.28,
-        "median": 17.28,
-        "min": 17.28,
+        "max": 17.27,
+        "median": 17.27,
+        "min": 17.27,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-01-05",
-        "avg": 17.54,
+        "avg": 17.53,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-05 12:00:00",
-            "value": 17.54
+            "value": 17.53
         },
         "last": {
             "date": "2025-01-05 12:00:00",
-            "value": 17.54
+            "value": 17.53
         },
-        "max": 17.54,
-        "median": 17.54,
-        "min": 17.54,
+        "max": 17.53,
+        "median": 17.53,
+        "min": 17.53,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -4960,20 +4941,20 @@
     },
     {
         "_id": "2025-01-11",
-        "avg": 18.4,
+        "avg": 18.39,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-11 12:00:00",
-            "value": 18.4
+            "value": 18.39
         },
         "last": {
             "date": "2025-01-11 12:00:00",
-            "value": 18.4
+            "value": 18.39
         },
-        "max": 18.4,
-        "median": 18.4,
-        "min": 18.4,
+        "max": 18.39,
+        "median": 18.39,
+        "min": 18.39,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -4998,20 +4979,20 @@
     },
     {
         "_id": "2025-01-13",
-        "avg": 18.58,
+        "avg": 18.57,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-13 12:00:00",
-            "value": 18.58
+            "value": 18.57
         },
         "last": {
             "date": "2025-01-13 12:00:00",
-            "value": 18.58
+            "value": 18.57
         },
-        "max": 18.58,
-        "median": 18.58,
-        "min": 18.58,
+        "max": 18.57,
+        "median": 18.57,
+        "min": 18.57,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -5055,39 +5036,39 @@
     },
     {
         "_id": "2025-01-16",
-        "avg": 18.66,
+        "avg": 18.65,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-16 12:00:00",
-            "value": 18.66
+            "value": 18.65
         },
         "last": {
             "date": "2025-01-16 12:00:00",
-            "value": 18.66
+            "value": 18.65
         },
-        "max": 18.66,
-        "median": 18.66,
-        "min": 18.66,
+        "max": 18.65,
+        "median": 18.65,
+        "min": 18.65,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-01-17",
-        "avg": 18.72,
+        "avg": 18.71,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-17 12:00:00",
-            "value": 18.72
+            "value": 18.71
         },
         "last": {
             "date": "2025-01-17 12:00:00",
-            "value": 18.72
+            "value": 18.71
         },
-        "max": 18.72,
-        "median": 18.72,
-        "min": 18.72,
+        "max": 18.71,
+        "median": 18.71,
+        "min": 18.71,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -5245,20 +5226,20 @@
     },
     {
         "_id": "2025-01-26",
-        "avg": 18.55,
+        "avg": 18.54,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-01-26 12:00:00",
-            "value": 18.55
+            "value": 18.54
         },
         "last": {
             "date": "2025-01-26 12:00:00",
-            "value": 18.55
+            "value": 18.54
         },
-        "max": 18.55,
-        "median": 18.55,
-        "min": 18.55,
+        "max": 18.54,
+        "median": 18.54,
+        "min": 18.54,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -5625,20 +5606,20 @@
     },
     {
         "_id": "2025-02-15",
-        "avg": 18.65,
+        "avg": 18.64,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-02-15 12:00:00",
-            "value": 18.65
+            "value": 18.64
         },
         "last": {
             "date": "2025-02-15 12:00:00",
-            "value": 18.65
+            "value": 18.64
         },
-        "max": 18.65,
-        "median": 18.65,
-        "min": 18.65,
+        "max": 18.64,
+        "median": 18.64,
+        "min": 18.64,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -5663,20 +5644,20 @@
     },
     {
         "_id": "2025-02-17",
-        "avg": 18.64,
+        "avg": 18.63,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-02-17 12:00:00",
-            "value": 18.64
+            "value": 18.63
         },
         "last": {
             "date": "2025-02-17 12:00:00",
-            "value": 18.64
+            "value": 18.63
         },
-        "max": 18.64,
-        "median": 18.64,
-        "min": 18.64,
+        "max": 18.63,
+        "median": 18.63,
+        "min": 18.63,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -5720,20 +5701,20 @@
     },
     {
         "_id": "2025-02-20",
-        "avg": 18.7,
+        "avg": 18.69,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-02-20 12:00:00",
-            "value": 18.7
+            "value": 18.69
         },
         "last": {
             "date": "2025-02-20 12:00:00",
-            "value": 18.7
+            "value": 18.69
         },
-        "max": 18.7,
-        "median": 18.7,
-        "min": 18.7,
+        "max": 18.69,
+        "median": 18.69,
+        "min": 18.69,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -5796,20 +5777,20 @@
     },
     {
         "_id": "2025-02-24",
-        "avg": 18.69,
+        "avg": 18.68,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-02-24 12:00:00",
-            "value": 18.69
+            "value": 18.68
         },
         "last": {
             "date": "2025-02-24 12:00:00",
-            "value": 18.69
+            "value": 18.68
         },
-        "max": 18.69,
-        "median": 18.69,
-        "min": 18.69,
+        "max": 18.68,
+        "median": 18.68,
+        "min": 18.68,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6005,20 +5986,20 @@
     },
     {
         "_id": "2025-03-07",
-        "avg": 18.85,
+        "avg": 18.84,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-03-07 12:00:00",
-            "value": 18.85
+            "value": 18.84
         },
         "last": {
             "date": "2025-03-07 12:00:00",
-            "value": 18.85
+            "value": 18.84
         },
-        "max": 18.85,
-        "median": 18.85,
-        "min": 18.85,
+        "max": 18.84,
+        "median": 18.84,
+        "min": 18.84,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6138,20 +6119,20 @@
     },
     {
         "_id": "2025-03-15",
-        "avg": 18.98,
+        "avg": 18.97,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-03-15 12:00:00",
-            "value": 18.98
+            "value": 18.97
         },
         "last": {
             "date": "2025-03-15 12:00:00",
-            "value": 18.98
+            "value": 18.97
         },
-        "max": 18.98,
-        "median": 18.98,
-        "min": 18.98,
+        "max": 18.97,
+        "median": 18.97,
+        "min": 18.97,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6271,20 +6252,20 @@
     },
     {
         "_id": "2025-03-22",
-        "avg": 19.19,
+        "avg": 19.18,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-03-22 12:00:00",
-            "value": 19.19
+            "value": 19.18
         },
         "last": {
             "date": "2025-03-22 12:00:00",
-            "value": 19.19
+            "value": 19.18
         },
-        "max": 19.19,
-        "median": 19.19,
-        "min": 19.19,
+        "max": 19.18,
+        "median": 19.18,
+        "min": 19.18,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6328,20 +6309,20 @@
     },
     {
         "_id": "2025-03-25",
-        "avg": 19.23,
+        "avg": 19.22,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-03-25 12:00:00",
-            "value": 19.23
+            "value": 19.22
         },
         "last": {
             "date": "2025-03-25 12:00:00",
-            "value": 19.23
+            "value": 19.22
         },
-        "max": 19.23,
-        "median": 19.23,
-        "min": 19.23,
+        "max": 19.22,
+        "median": 19.22,
+        "min": 19.22,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6423,20 +6404,20 @@
     },
     {
         "_id": "2025-03-30",
-        "avg": 19.43,
+        "avg": 19.42,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-03-30 12:00:00",
-            "value": 19.43
+            "value": 19.42
         },
         "last": {
             "date": "2025-03-30 12:00:00",
-            "value": 19.43
+            "value": 19.42
         },
-        "max": 19.43,
-        "median": 19.43,
-        "min": 19.43,
+        "max": 19.42,
+        "median": 19.42,
+        "min": 19.42,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6461,20 +6442,20 @@
     },
     {
         "_id": "2025-04-01",
-        "avg": 19.49,
+        "avg": 19.48,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-04-01 12:00:00",
-            "value": 19.49
+            "value": 19.48
         },
         "last": {
             "date": "2025-04-01 12:00:00",
-            "value": 19.49
+            "value": 19.48
         },
-        "max": 19.49,
-        "median": 19.49,
-        "min": 19.49,
+        "max": 19.48,
+        "median": 19.48,
+        "min": 19.48,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6651,20 +6632,20 @@
     },
     {
         "_id": "2025-04-11",
-        "avg": 19.72,
+        "avg": 19.71,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-04-11 12:00:00",
-            "value": 19.72
+            "value": 19.71
         },
         "last": {
             "date": "2025-04-11 12:00:00",
-            "value": 19.72
+            "value": 19.71
         },
-        "max": 19.72,
-        "median": 19.72,
-        "min": 19.72,
+        "max": 19.71,
+        "median": 19.71,
+        "min": 19.71,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6803,20 +6784,20 @@
     },
     {
         "_id": "2025-04-19",
-        "avg": 19.96,
+        "avg": 19.95,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-04-19 12:00:00",
-            "value": 19.96
+            "value": 19.95
         },
         "last": {
             "date": "2025-04-19 12:00:00",
-            "value": 19.96
+            "value": 19.95
         },
-        "max": 19.96,
-        "median": 19.96,
-        "min": 19.96,
+        "max": 19.95,
+        "median": 19.95,
+        "min": 19.95,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6898,20 +6879,20 @@
     },
     {
         "_id": "2025-04-25",
-        "avg": 19.99,
+        "avg": 19.98,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-04-25 12:00:00",
-            "value": 19.99
+            "value": 19.98
         },
         "last": {
             "date": "2025-04-25 12:00:00",
-            "value": 19.99
+            "value": 19.98
         },
-        "max": 19.99,
-        "median": 19.99,
-        "min": 19.99,
+        "max": 19.98,
+        "median": 19.98,
+        "min": 19.98,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -6974,20 +6955,20 @@
     },
     {
         "_id": "2025-04-30",
-        "avg": 20.14,
+        "avg": 20.13,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-04-30 12:00:00",
-            "value": 20.14
+            "value": 20.13
         },
         "last": {
             "date": "2025-04-30 12:00:00",
-            "value": 20.14
+            "value": 20.13
         },
-        "max": 20.14,
-        "median": 20.14,
-        "min": 20.14,
+        "max": 20.13,
+        "median": 20.13,
+        "min": 20.13,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7050,20 +7031,20 @@
     },
     {
         "_id": "2025-05-04",
-        "avg": 20.24,
+        "avg": 20.23,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-05-04 12:00:00",
-            "value": 20.24
+            "value": 20.23
         },
         "last": {
             "date": "2025-05-04 12:00:00",
-            "value": 20.24
+            "value": 20.23
         },
-        "max": 20.24,
-        "median": 20.24,
-        "min": 20.24,
+        "max": 20.23,
+        "median": 20.23,
+        "min": 20.23,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7221,20 +7202,20 @@
     },
     {
         "_id": "2025-05-13",
-        "avg": 20.17,
+        "avg": 20.16,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-05-13 12:00:00",
-            "value": 20.17
+            "value": 20.16
         },
         "last": {
             "date": "2025-05-13 12:00:00",
-            "value": 20.17
+            "value": 20.16
         },
-        "max": 20.17,
-        "median": 20.17,
-        "min": 20.17,
+        "max": 20.16,
+        "median": 20.16,
+        "min": 20.16,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7411,20 +7392,20 @@
     },
     {
         "_id": "2025-05-23",
-        "avg": 20.22,
+        "avg": 20.21,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-05-23 12:00:00",
-            "value": 20.22
+            "value": 20.21
         },
         "last": {
             "date": "2025-05-23 12:00:00",
-            "value": 20.22
+            "value": 20.21
         },
-        "max": 20.22,
-        "median": 20.22,
-        "min": 20.22,
+        "max": 20.21,
+        "median": 20.21,
+        "min": 20.21,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7449,39 +7430,39 @@
     },
     {
         "_id": "2025-05-25",
-        "avg": 20.24,
-        "count_values": 0,
-        "cur": "MXN",
-        "first": {
-            "date": "2025-05-25 12:00:00",
-            "value": 20.24
-        },
-        "last": {
-            "date": "2025-05-25 12:00:00",
-            "value": 20.24
-        },
-        "max": 20.24,
-        "median": 20.24,
-        "min": 20.24,
-        "offer": "General",
-        "trmi": "estimated"
-    },
-    {
-        "_id": "2025-05-26",
         "avg": 20.23,
         "count_values": 0,
         "cur": "MXN",
         "first": {
-            "date": "2025-05-26 12:00:00",
+            "date": "2025-05-25 12:00:00",
             "value": 20.23
         },
         "last": {
-            "date": "2025-05-26 12:00:00",
+            "date": "2025-05-25 12:00:00",
             "value": 20.23
         },
         "max": 20.23,
         "median": 20.23,
         "min": 20.23,
+        "offer": "General",
+        "trmi": "estimated"
+    },
+    {
+        "_id": "2025-05-26",
+        "avg": 20.22,
+        "count_values": 0,
+        "cur": "MXN",
+        "first": {
+            "date": "2025-05-26 12:00:00",
+            "value": 20.22
+        },
+        "last": {
+            "date": "2025-05-26 12:00:00",
+            "value": 20.22
+        },
+        "max": 20.22,
+        "median": 20.22,
+        "min": 20.22,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7506,20 +7487,20 @@
     },
     {
         "_id": "2025-05-28",
-        "avg": 20.31,
+        "avg": 20.3,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-05-28 12:00:00",
-            "value": 20.31
+            "value": 20.3
         },
         "last": {
             "date": "2025-05-28 12:00:00",
-            "value": 20.31
+            "value": 20.3
         },
-        "max": 20.31,
-        "median": 20.31,
-        "min": 20.31,
+        "max": 20.3,
+        "median": 20.3,
+        "min": 20.3,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7696,20 +7677,20 @@
     },
     {
         "_id": "2025-06-07",
-        "avg": 20.47,
+        "avg": 20.46,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-06-07 12:00:00",
-            "value": 20.47
+            "value": 20.46
         },
         "last": {
             "date": "2025-06-07 12:00:00",
-            "value": 20.47
+            "value": 20.46
         },
-        "max": 20.47,
-        "median": 20.47,
-        "min": 20.47,
+        "max": 20.46,
+        "median": 20.46,
+        "min": 20.46,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7867,20 +7848,20 @@
     },
     {
         "_id": "2025-06-16",
-        "avg": 20.61,
+        "avg": 20.6,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-06-16 12:00:00",
-            "value": 20.61
+            "value": 20.6
         },
         "last": {
             "date": "2025-06-16 12:00:00",
-            "value": 20.61
+            "value": 20.6
         },
-        "max": 20.61,
-        "median": 20.61,
-        "min": 20.61,
+        "max": 20.6,
+        "median": 20.6,
+        "min": 20.6,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -7924,20 +7905,20 @@
     },
     {
         "_id": "2025-06-19",
-        "avg": 20.68,
+        "avg": 20.67,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-06-19 12:00:00",
-            "value": 20.68
+            "value": 20.67
         },
         "last": {
             "date": "2025-06-19 12:00:00",
-            "value": 20.68
+            "value": 20.67
         },
-        "max": 20.68,
-        "median": 20.68,
-        "min": 20.68,
+        "max": 20.67,
+        "median": 20.67,
+        "min": 20.67,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -8000,39 +7981,39 @@
     },
     {
         "_id": "2025-06-23",
-        "avg": 20.77,
+        "avg": 20.76,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-06-23 12:00:00",
-            "value": 20.77
+            "value": 20.76
         },
         "last": {
             "date": "2025-06-23 12:00:00",
-            "value": 20.77
+            "value": 20.76
         },
-        "max": 20.77,
-        "median": 20.77,
-        "min": 20.77,
+        "max": 20.76,
+        "median": 20.76,
+        "min": 20.76,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-06-24",
-        "avg": 20.77,
+        "avg": 20.76,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-06-24 12:00:00",
-            "value": 20.77
+            "value": 20.76
         },
         "last": {
             "date": "2025-06-24 12:00:00",
-            "value": 20.77
+            "value": 20.76
         },
-        "max": 20.77,
-        "median": 20.77,
-        "min": 20.77,
+        "max": 20.76,
+        "median": 20.76,
+        "min": 20.76,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -8057,20 +8038,20 @@
     },
     {
         "_id": "2025-06-26",
-        "avg": 20.83,
+        "avg": 20.82,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-06-26 12:00:00",
-            "value": 20.83
+            "value": 20.82
         },
         "last": {
             "date": "2025-06-26 12:00:00",
-            "value": 20.83
+            "value": 20.82
         },
-        "max": 20.83,
-        "median": 20.83,
-        "min": 20.83,
+        "max": 20.82,
+        "median": 20.82,
+        "min": 20.82,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -8361,20 +8342,20 @@
     },
     {
         "_id": "2025-07-12",
-        "avg": 21.08,
+        "avg": 21.07,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-07-12 12:00:00",
-            "value": 21.08
+            "value": 21.07
         },
         "last": {
             "date": "2025-07-12 12:00:00",
-            "value": 21.08
+            "value": 21.07
         },
-        "max": 21.08,
-        "median": 21.08,
-        "min": 21.08,
+        "max": 21.07,
+        "median": 21.07,
+        "min": 21.07,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -8418,20 +8399,20 @@
     },
     {
         "_id": "2025-07-15",
-        "avg": 21.16,
+        "avg": 21.15,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-07-15 12:00:00",
-            "value": 21.16
+            "value": 21.15
         },
         "last": {
             "date": "2025-07-15 12:00:00",
-            "value": 21.16
+            "value": 21.15
         },
-        "max": 21.16,
-        "median": 21.16,
-        "min": 21.16,
+        "max": 21.15,
+        "median": 21.15,
+        "min": 21.15,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -8570,20 +8551,20 @@
     },
     {
         "_id": "2025-07-23",
-        "avg": 21.2,
+        "avg": 21.19,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-07-23 12:00:00",
-            "value": 21.2
+            "value": 21.19
         },
         "last": {
             "date": "2025-07-23 12:00:00",
-            "value": 21.2
+            "value": 21.19
         },
-        "max": 21.2,
-        "median": 21.2,
-        "min": 21.2,
+        "max": 21.19,
+        "median": 21.19,
+        "min": 21.19,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -8722,20 +8703,20 @@
     },
     {
         "_id": "2025-08-01",
-        "avg": 21.5,
+        "avg": 21.49,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-08-01 12:00:00",
-            "value": 21.5
+            "value": 21.49
         },
         "last": {
             "date": "2025-08-01 12:00:00",
-            "value": 21.5
+            "value": 21.49
         },
-        "max": 21.5,
-        "median": 21.5,
-        "min": 21.5,
+        "max": 21.49,
+        "median": 21.49,
+        "min": 21.49,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -8893,20 +8874,20 @@
     },
     {
         "_id": "2025-08-10",
-        "avg": 21.83,
+        "avg": 21.82,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-08-10 12:00:00",
-            "value": 21.83
+            "value": 21.82
         },
         "last": {
             "date": "2025-08-10 12:00:00",
-            "value": 21.83
+            "value": 21.82
         },
-        "max": 21.83,
-        "median": 21.83,
-        "min": 21.83,
+        "max": 21.82,
+        "median": 21.82,
+        "min": 21.82,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9178,20 +9159,20 @@
     },
     {
         "_id": "2025-08-25",
-        "avg": 22.18,
+        "avg": 22.17,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-08-25 12:00:00",
-            "value": 22.18
+            "value": 22.17
         },
         "last": {
             "date": "2025-08-25 12:00:00",
-            "value": 22.18
+            "value": 22.17
         },
-        "max": 22.18,
-        "median": 22.18,
-        "min": 22.18,
+        "max": 22.17,
+        "median": 22.17,
+        "min": 22.17,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9273,20 +9254,20 @@
     },
     {
         "_id": "2025-08-30",
-        "avg": 22.41,
+        "avg": 22.4,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-08-30 12:00:00",
-            "value": 22.41
+            "value": 22.4
         },
         "last": {
             "date": "2025-08-30 12:00:00",
-            "value": 22.41
+            "value": 22.4
         },
-        "max": 22.41,
-        "median": 22.41,
-        "min": 22.41,
+        "max": 22.4,
+        "median": 22.4,
+        "min": 22.4,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9349,39 +9330,39 @@
     },
     {
         "_id": "2025-09-03",
-        "avg": 22.4,
+        "avg": 22.39,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-03 12:00:00",
-            "value": 22.4
+            "value": 22.39
         },
         "last": {
             "date": "2025-09-03 12:00:00",
-            "value": 22.4
+            "value": 22.39
         },
-        "max": 22.4,
-        "median": 22.4,
-        "min": 22.4,
+        "max": 22.39,
+        "median": 22.39,
+        "min": 22.39,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-09-04",
-        "avg": 22.33,
+        "avg": 22.32,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-04 12:00:00",
-            "value": 22.33
+            "value": 22.32
         },
         "last": {
             "date": "2025-09-04 12:00:00",
-            "value": 22.33
+            "value": 22.32
         },
-        "max": 22.33,
-        "median": 22.33,
-        "min": 22.33,
+        "max": 22.32,
+        "median": 22.32,
+        "min": 22.32,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9406,20 +9387,20 @@
     },
     {
         "_id": "2025-09-06",
-        "avg": 22.27,
+        "avg": 22.26,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-06 12:00:00",
-            "value": 22.27
+            "value": 22.26
         },
         "last": {
             "date": "2025-09-06 12:00:00",
-            "value": 22.27
+            "value": 22.26
         },
-        "max": 22.27,
-        "median": 22.27,
-        "min": 22.27,
+        "max": 22.26,
+        "median": 22.26,
+        "min": 22.26,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9444,20 +9425,20 @@
     },
     {
         "_id": "2025-09-08",
-        "avg": 22.44,
+        "avg": 22.43,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-08 12:00:00",
-            "value": 22.44
+            "value": 22.43
         },
         "last": {
             "date": "2025-09-08 12:00:00",
-            "value": 22.44
+            "value": 22.43
         },
-        "max": 22.44,
-        "median": 22.44,
-        "min": 22.44,
+        "max": 22.43,
+        "median": 22.43,
+        "min": 22.43,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9558,20 +9539,20 @@
     },
     {
         "_id": "2025-09-14",
-        "avg": 23.03,
+        "avg": 23.02,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-14 12:00:00",
-            "value": 23.03
+            "value": 23.02
         },
         "last": {
             "date": "2025-09-14 12:00:00",
-            "value": 23.03
+            "value": 23.02
         },
-        "max": 23.03,
-        "median": 23.03,
-        "min": 23.03,
+        "max": 23.02,
+        "median": 23.02,
+        "min": 23.02,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9672,20 +9653,20 @@
     },
     {
         "_id": "2025-09-20",
-        "avg": 22.82,
+        "avg": 22.81,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-20 12:00:00",
-            "value": 22.82
+            "value": 22.81
         },
         "last": {
             "date": "2025-09-20 12:00:00",
-            "value": 22.82
+            "value": 22.81
         },
-        "max": 22.82,
-        "median": 22.82,
-        "min": 22.82,
+        "max": 22.81,
+        "median": 22.81,
+        "min": 22.81,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9710,39 +9691,39 @@
     },
     {
         "_id": "2025-09-22",
-        "avg": 23.21,
+        "avg": 23.2,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-22 12:00:00",
-            "value": 23.21
+            "value": 23.2
         },
         "last": {
             "date": "2025-09-22 12:00:00",
-            "value": 23.21
+            "value": 23.2
         },
-        "max": 23.21,
-        "median": 23.21,
-        "min": 23.21,
+        "max": 23.2,
+        "median": 23.2,
+        "min": 23.2,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-09-23",
-        "avg": 23.37,
+        "avg": 23.36,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-09-23 12:00:00",
-            "value": 23.37
+            "value": 23.36
         },
         "last": {
             "date": "2025-09-23 12:00:00",
-            "value": 23.37
+            "value": 23.36
         },
-        "max": 23.37,
-        "median": 23.37,
-        "min": 23.37,
+        "max": 23.36,
+        "median": 23.36,
+        "min": 23.36,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -9900,20 +9881,20 @@
     },
     {
         "_id": "2025-10-02",
-        "avg": 24.1,
+        "avg": 24.09,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-10-02 12:00:00",
-            "value": 24.1
+            "value": 24.09
         },
         "last": {
             "date": "2025-10-02 12:00:00",
-            "value": 24.1
+            "value": 24.09
         },
-        "max": 24.1,
-        "median": 24.1,
-        "min": 24.1,
+        "max": 24.09,
+        "median": 24.09,
+        "min": 24.09,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10204,39 +10185,39 @@
     },
     {
         "_id": "2025-10-18",
-        "avg": 25.71,
+        "avg": 25.7,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-10-18 12:00:00",
-            "value": 25.71
+            "value": 25.7
         },
         "last": {
             "date": "2025-10-18 12:00:00",
-            "value": 25.71
+            "value": 25.7
         },
-        "max": 25.71,
-        "median": 25.71,
-        "min": 25.71,
+        "max": 25.7,
+        "median": 25.7,
+        "min": 25.7,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-10-19",
-        "avg": 25.84,
+        "avg": 25.83,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-10-19 12:00:00",
-            "value": 25.84
+            "value": 25.83
         },
         "last": {
             "date": "2025-10-19 12:00:00",
-            "value": 25.84
+            "value": 25.83
         },
-        "max": 25.84,
-        "median": 25.84,
-        "min": 25.84,
+        "max": 25.83,
+        "median": 25.83,
+        "min": 25.83,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10261,20 +10242,20 @@
     },
     {
         "_id": "2025-10-21",
-        "avg": 26.13,
+        "avg": 26.12,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-10-21 12:00:00",
-            "value": 26.13
+            "value": 26.12
         },
         "last": {
             "date": "2025-10-21 12:00:00",
-            "value": 26.13
+            "value": 26.12
         },
-        "max": 26.13,
-        "median": 26.13,
-        "min": 26.13,
+        "max": 26.12,
+        "median": 26.12,
+        "min": 26.12,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10375,20 +10356,20 @@
     },
     {
         "_id": "2025-10-27",
-        "avg": 26.81,
+        "avg": 26.8,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-10-27 12:00:00",
-            "value": 26.81
+            "value": 26.8
         },
         "last": {
             "date": "2025-10-27 12:00:00",
-            "value": 26.81
+            "value": 26.8
         },
-        "max": 26.81,
-        "median": 26.81,
-        "min": 26.81,
+        "max": 26.8,
+        "median": 26.8,
+        "min": 26.8,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10432,20 +10413,20 @@
     },
     {
         "_id": "2025-10-30",
-        "avg": 25.88,
+        "avg": 25.87,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-10-30 12:00:00",
-            "value": 25.88
+            "value": 25.87
         },
         "last": {
             "date": "2025-10-30 12:00:00",
-            "value": 25.88
+            "value": 25.87
         },
-        "max": 25.88,
-        "median": 25.88,
-        "min": 25.88,
+        "max": 25.87,
+        "median": 25.87,
+        "min": 25.87,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10489,20 +10470,20 @@
     },
     {
         "_id": "2025-11-02",
-        "avg": 24.22,
+        "avg": 24.21,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-02 12:00:00",
-            "value": 24.22
+            "value": 24.21
         },
         "last": {
             "date": "2025-11-02 12:00:00",
-            "value": 24.22
+            "value": 24.21
         },
-        "max": 24.22,
-        "median": 24.22,
-        "min": 24.22,
+        "max": 24.21,
+        "median": 24.21,
+        "min": 24.21,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10641,20 +10622,20 @@
     },
     {
         "_id": "2025-11-10",
-        "avg": 23.53,
+        "avg": 23.52,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-10 12:00:00",
-            "value": 23.53
+            "value": 23.52
         },
         "last": {
             "date": "2025-11-10 12:00:00",
-            "value": 23.53
+            "value": 23.52
         },
-        "max": 23.53,
-        "median": 23.53,
-        "min": 23.53,
+        "max": 23.52,
+        "median": 23.52,
+        "min": 23.52,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10698,20 +10679,20 @@
     },
     {
         "_id": "2025-11-13",
-        "avg": 25.0,
+        "avg": 24.99,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-13 12:00:00",
-            "value": 25.0
+            "value": 24.99
         },
         "last": {
             "date": "2025-11-13 12:00:00",
-            "value": 25.0
+            "value": 24.99
         },
-        "max": 25.0,
-        "median": 25.0,
-        "min": 25.0,
+        "max": 24.99,
+        "median": 24.99,
+        "min": 24.99,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10736,39 +10717,39 @@
     },
     {
         "_id": "2025-11-15",
-        "avg": 25.34,
+        "avg": 25.33,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-15 12:00:00",
-            "value": 25.34
+            "value": 25.33
         },
         "last": {
             "date": "2025-11-15 12:00:00",
-            "value": 25.34
+            "value": 25.33
         },
-        "max": 25.34,
-        "median": 25.34,
-        "min": 25.34,
+        "max": 25.33,
+        "median": 25.33,
+        "min": 25.33,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-11-16",
-        "avg": 24.87,
+        "avg": 24.86,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-16 12:00:00",
-            "value": 24.87
+            "value": 24.86
         },
         "last": {
             "date": "2025-11-16 12:00:00",
-            "value": 24.87
+            "value": 24.86
         },
-        "max": 24.87,
-        "median": 24.87,
-        "min": 24.87,
+        "max": 24.86,
+        "median": 24.86,
+        "min": 24.86,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10812,20 +10793,20 @@
     },
     {
         "_id": "2025-11-19",
-        "avg": 23.82,
+        "avg": 23.81,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-19 12:00:00",
-            "value": 23.82
+            "value": 23.81
         },
         "last": {
             "date": "2025-11-19 12:00:00",
-            "value": 23.82
+            "value": 23.81
         },
-        "max": 23.82,
-        "median": 23.82,
-        "min": 23.82,
+        "max": 23.81,
+        "median": 23.81,
+        "min": 23.81,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10850,20 +10831,20 @@
     },
     {
         "_id": "2025-11-21",
-        "avg": 23.75,
+        "avg": 23.74,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-21 12:00:00",
-            "value": 23.75
+            "value": 23.74
         },
         "last": {
             "date": "2025-11-21 12:00:00",
-            "value": 23.75
+            "value": 23.74
         },
-        "max": 23.75,
-        "median": 23.75,
-        "min": 23.75,
+        "max": 23.74,
+        "median": 23.74,
+        "min": 23.74,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -10926,20 +10907,20 @@
     },
     {
         "_id": "2025-11-25",
-        "avg": 23.94,
+        "avg": 23.93,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-11-25 12:00:00",
-            "value": 23.94
+            "value": 23.93
         },
         "last": {
             "date": "2025-11-25 12:00:00",
-            "value": 23.94
+            "value": 23.93
         },
-        "max": 23.94,
-        "median": 23.94,
-        "min": 23.94,
+        "max": 23.93,
+        "median": 23.93,
+        "min": 23.93,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11059,20 +11040,20 @@
     },
     {
         "_id": "2025-12-02",
-        "avg": 24.47,
+        "avg": 24.46,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-02 12:00:00",
-            "value": 24.47
+            "value": 24.46
         },
         "last": {
             "date": "2025-12-02 12:00:00",
-            "value": 24.47
+            "value": 24.46
         },
-        "max": 24.47,
-        "median": 24.47,
-        "min": 24.47,
+        "max": 24.46,
+        "median": 24.46,
+        "min": 24.46,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11097,20 +11078,20 @@
     },
     {
         "_id": "2025-12-04",
-        "avg": 24.48,
+        "avg": 24.47,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-04 12:00:00",
-            "value": 24.48
+            "value": 24.47
         },
         "last": {
             "date": "2025-12-04 12:00:00",
-            "value": 24.48
+            "value": 24.47
         },
-        "max": 24.48,
-        "median": 24.48,
-        "min": 24.48,
+        "max": 24.47,
+        "median": 24.47,
+        "min": 24.47,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11306,20 +11287,20 @@
     },
     {
         "_id": "2025-12-16",
-        "avg": 23.91,
+        "avg": 23.9,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-16 12:00:00",
-            "value": 23.91
+            "value": 23.9
         },
         "last": {
             "date": "2025-12-16 12:00:00",
-            "value": 23.91
+            "value": 23.9
         },
-        "max": 23.91,
-        "median": 23.91,
-        "min": 23.91,
+        "max": 23.9,
+        "median": 23.9,
+        "min": 23.9,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11344,20 +11325,20 @@
     },
     {
         "_id": "2025-12-18",
-        "avg": 23.98,
+        "avg": 23.97,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-18 12:00:00",
-            "value": 23.98
+            "value": 23.97
         },
         "last": {
             "date": "2025-12-18 12:00:00",
-            "value": 23.98
+            "value": 23.97
         },
-        "max": 23.98,
-        "median": 23.98,
-        "min": 23.98,
+        "max": 23.97,
+        "median": 23.97,
+        "min": 23.97,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11382,20 +11363,20 @@
     },
     {
         "_id": "2025-12-20",
-        "avg": 24.01,
+        "avg": 24.0,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-20 12:00:00",
-            "value": 24.01
+            "value": 24.0
         },
         "last": {
             "date": "2025-12-20 12:00:00",
-            "value": 24.01
+            "value": 24.0
         },
-        "max": 24.01,
-        "median": 24.01,
-        "min": 24.01,
+        "max": 24.0,
+        "median": 24.0,
+        "min": 24.0,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11439,20 +11420,20 @@
     },
     {
         "_id": "2025-12-23",
-        "avg": 23.95,
+        "avg": 23.94,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-23 12:00:00",
-            "value": 23.95
+            "value": 23.94
         },
         "last": {
             "date": "2025-12-23 12:00:00",
-            "value": 23.95
+            "value": 23.94
         },
-        "max": 23.95,
-        "median": 23.95,
-        "min": 23.95,
+        "max": 23.94,
+        "median": 23.94,
+        "min": 23.94,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11515,39 +11496,39 @@
     },
     {
         "_id": "2025-12-27",
-        "avg": 23.83,
+        "avg": 23.82,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-27 12:00:00",
-            "value": 23.83
+            "value": 23.82
         },
         "last": {
             "date": "2025-12-27 12:00:00",
-            "value": 23.83
+            "value": 23.82
         },
-        "max": 23.83,
-        "median": 23.83,
-        "min": 23.83,
+        "max": 23.82,
+        "median": 23.82,
+        "min": 23.82,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2025-12-28",
-        "avg": 23.86,
+        "avg": 23.85,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2025-12-28 12:00:00",
-            "value": 23.86
+            "value": 23.85
         },
         "last": {
             "date": "2025-12-28 12:00:00",
-            "value": 23.86
+            "value": 23.85
         },
-        "max": 23.86,
-        "median": 23.86,
-        "min": 23.86,
+        "max": 23.85,
+        "median": 23.85,
+        "min": 23.85,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11724,20 +11705,20 @@
     },
     {
         "_id": "2026-01-07",
-        "avg": 24.57,
+        "avg": 24.56,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-01-07 12:00:00",
-            "value": 24.57
+            "value": 24.56
         },
         "last": {
             "date": "2026-01-07 12:00:00",
-            "value": 24.57
+            "value": 24.56
         },
-        "max": 24.57,
-        "median": 24.57,
-        "min": 24.57,
+        "max": 24.56,
+        "median": 24.56,
+        "min": 24.56,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11876,20 +11857,20 @@
     },
     {
         "_id": "2026-01-15",
-        "avg": 26.08,
+        "avg": 26.07,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-01-15 12:00:00",
-            "value": 26.08
+            "value": 26.07
         },
         "last": {
             "date": "2026-01-15 12:00:00",
-            "value": 26.08
+            "value": 26.07
         },
-        "max": 26.08,
-        "median": 26.08,
-        "min": 26.08,
+        "max": 26.07,
+        "median": 26.07,
+        "min": 26.07,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -11914,20 +11895,20 @@
     },
     {
         "_id": "2026-01-17",
-        "avg": 26.49,
+        "avg": 26.48,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-01-17 12:00:00",
-            "value": 26.49
+            "value": 26.48
         },
         "last": {
             "date": "2026-01-17 12:00:00",
-            "value": 26.49
+            "value": 26.48
         },
-        "max": 26.49,
-        "median": 26.49,
-        "min": 26.49,
+        "max": 26.48,
+        "median": 26.48,
+        "min": 26.48,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12104,20 +12085,20 @@
     },
     {
         "_id": "2026-01-27",
-        "avg": 26.47,
+        "avg": 26.46,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-01-27 12:00:00",
-            "value": 26.47
+            "value": 26.46
         },
         "last": {
             "date": "2026-01-27 12:00:00",
-            "value": 26.47
+            "value": 26.46
         },
-        "max": 26.47,
-        "median": 26.47,
-        "min": 26.47,
+        "max": 26.46,
+        "median": 26.46,
+        "min": 26.46,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12161,20 +12142,20 @@
     },
     {
         "_id": "2026-01-30",
-        "avg": 26.45,
+        "avg": 26.44,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-01-30 12:00:00",
-            "value": 26.45
+            "value": 26.44
         },
         "last": {
             "date": "2026-01-30 12:00:00",
-            "value": 26.45
+            "value": 26.44
         },
-        "max": 26.45,
-        "median": 26.45,
-        "min": 26.45,
+        "max": 26.44,
+        "median": 26.44,
+        "min": 26.44,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12256,39 +12237,39 @@
     },
     {
         "_id": "2026-02-04",
-        "avg": 26.75,
+        "avg": 26.74,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-04 12:00:00",
-            "value": 26.75
+            "value": 26.74
         },
         "last": {
             "date": "2026-02-04 12:00:00",
-            "value": 26.75
+            "value": 26.74
         },
-        "max": 26.75,
-        "median": 26.75,
-        "min": 26.75,
+        "max": 26.74,
+        "median": 26.74,
+        "min": 26.74,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2026-02-05",
-        "avg": 26.86,
+        "avg": 26.85,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-05 12:00:00",
-            "value": 26.86
+            "value": 26.85
         },
         "last": {
             "date": "2026-02-05 12:00:00",
-            "value": 26.86
+            "value": 26.85
         },
-        "max": 26.86,
-        "median": 26.86,
-        "min": 26.86,
+        "max": 26.85,
+        "median": 26.85,
+        "min": 26.85,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12370,39 +12351,39 @@
     },
     {
         "_id": "2026-02-10",
-        "avg": 27.15,
+        "avg": 27.14,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-10 12:00:00",
-            "value": 27.15
+            "value": 27.14
         },
         "last": {
             "date": "2026-02-10 12:00:00",
-            "value": 27.15
+            "value": 27.14
         },
-        "max": 27.15,
-        "median": 27.15,
-        "min": 27.15,
+        "max": 27.14,
+        "median": 27.14,
+        "min": 27.14,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2026-02-11",
-        "avg": 27.25,
+        "avg": 27.24,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-11 12:00:00",
-            "value": 27.25
+            "value": 27.24
         },
         "last": {
             "date": "2026-02-11 12:00:00",
-            "value": 27.25
+            "value": 27.24
         },
-        "max": 27.25,
-        "median": 27.25,
-        "min": 27.25,
+        "max": 27.24,
+        "median": 27.24,
+        "min": 27.24,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12446,39 +12427,39 @@
     },
     {
         "_id": "2026-02-14",
-        "avg": 27.43,
+        "avg": 27.42,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-14 12:00:00",
-            "value": 27.43
+            "value": 27.42
         },
         "last": {
             "date": "2026-02-14 12:00:00",
-            "value": 27.43
+            "value": 27.42
         },
-        "max": 27.43,
-        "median": 27.43,
-        "min": 27.43,
+        "max": 27.42,
+        "median": 27.42,
+        "min": 27.42,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2026-02-15",
-        "avg": 27.44,
+        "avg": 27.43,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-15 12:00:00",
-            "value": 27.44
+            "value": 27.43
         },
         "last": {
             "date": "2026-02-15 12:00:00",
-            "value": 27.44
+            "value": 27.43
         },
-        "max": 27.44,
-        "median": 27.44,
-        "min": 27.44,
+        "max": 27.43,
+        "median": 27.43,
+        "min": 27.43,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12541,20 +12522,20 @@
     },
     {
         "_id": "2026-02-19",
-        "avg": 27.49,
+        "avg": 27.48,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-19 12:00:00",
-            "value": 27.49
+            "value": 27.48
         },
         "last": {
             "date": "2026-02-19 12:00:00",
-            "value": 27.49
+            "value": 27.48
         },
-        "max": 27.49,
-        "median": 27.49,
-        "min": 27.49,
+        "max": 27.48,
+        "median": 27.48,
+        "min": 27.48,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12579,20 +12560,20 @@
     },
     {
         "_id": "2026-02-21",
-        "avg": 27.63,
+        "avg": 27.62,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-21 12:00:00",
-            "value": 27.63
+            "value": 27.62
         },
         "last": {
             "date": "2026-02-21 12:00:00",
-            "value": 27.63
+            "value": 27.62
         },
-        "max": 27.63,
-        "median": 27.63,
-        "min": 27.63,
+        "max": 27.62,
+        "median": 27.62,
+        "min": 27.62,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12617,39 +12598,39 @@
     },
     {
         "_id": "2026-02-23",
-        "avg": 27.74,
+        "avg": 27.73,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-23 12:00:00",
-            "value": 27.74
+            "value": 27.73
         },
         "last": {
             "date": "2026-02-23 12:00:00",
-            "value": 27.74
+            "value": 27.73
         },
-        "max": 27.74,
-        "median": 27.74,
-        "min": 27.74,
+        "max": 27.73,
+        "median": 27.73,
+        "min": 27.73,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2026-02-24",
-        "avg": 27.77,
+        "avg": 27.76,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-24 12:00:00",
-            "value": 27.77
+            "value": 27.76
         },
         "last": {
             "date": "2026-02-24 12:00:00",
-            "value": 27.77
+            "value": 27.76
         },
-        "max": 27.77,
-        "median": 27.77,
-        "min": 27.77,
+        "max": 27.76,
+        "median": 27.76,
+        "min": 27.76,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12674,20 +12655,20 @@
     },
     {
         "_id": "2026-02-26",
-        "avg": 27.71,
+        "avg": 27.7,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-02-26 12:00:00",
-            "value": 27.71
+            "value": 27.7
         },
         "last": {
             "date": "2026-02-26 12:00:00",
-            "value": 27.71
+            "value": 27.7
         },
-        "max": 27.71,
-        "median": 27.71,
-        "min": 27.71,
+        "max": 27.7,
+        "median": 27.7,
+        "min": 27.7,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -12921,20 +12902,20 @@
     },
     {
         "_id": "2026-03-11",
-        "avg": 27.98,
+        "avg": 27.97,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-03-11 12:00:00",
-            "value": 27.98
+            "value": 27.97
         },
         "last": {
             "date": "2026-03-11 12:00:00",
-            "value": 27.98
+            "value": 27.97
         },
-        "max": 27.98,
-        "median": 27.98,
-        "min": 27.98,
+        "max": 27.97,
+        "median": 27.97,
+        "min": 27.97,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -13016,20 +12997,20 @@
     },
     {
         "_id": "2026-03-16",
-        "avg": 28.05,
+        "avg": 28.04,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-03-16 12:00:00",
-            "value": 28.05
+            "value": 28.04
         },
         "last": {
             "date": "2026-03-16 12:00:00",
-            "value": 28.05
+            "value": 28.04
         },
-        "max": 28.05,
-        "median": 28.05,
-        "min": 28.05,
+        "max": 28.04,
+        "median": 28.04,
+        "min": 28.04,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -13092,39 +13073,39 @@
     },
     {
         "_id": "2026-03-20",
-        "avg": 30.0,
-        "count_values": 1,
+        "avg": 28.17,
+        "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-03-20 12:00:00",
-            "value": 30.0
+            "value": 28.17
         },
         "last": {
             "date": "2026-03-20 12:00:00",
-            "value": 30.0
+            "value": 28.17
         },
-        "max": 30.0,
-        "median": 30.0,
-        "min": 30.0,
+        "max": 28.17,
+        "median": 28.17,
+        "min": 28.17,
         "offer": "General",
-        "trmi": "true"
+        "trmi": "estimated"
     },
     {
         "_id": "2026-03-21",
-        "avg": 28.14,
+        "avg": 28.13,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-03-21 12:00:00",
-            "value": 28.14
+            "value": 28.13
         },
         "last": {
             "date": "2026-03-21 12:00:00",
-            "value": 28.14
+            "value": 28.13
         },
-        "max": 28.14,
-        "median": 28.14,
-        "min": 28.14,
+        "max": 28.13,
+        "median": 28.13,
+        "min": 28.13,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -13491,39 +13472,39 @@
     },
     {
         "_id": "2026-04-10",
-        "avg": 28.62,
+        "avg": 28.61,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-04-10 12:00:00",
-            "value": 28.62
+            "value": 28.61
         },
         "last": {
             "date": "2026-04-10 12:00:00",
-            "value": 28.62
+            "value": 28.61
         },
-        "max": 28.62,
-        "median": 28.62,
-        "min": 28.62,
+        "max": 28.61,
+        "median": 28.61,
+        "min": 28.61,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2026-04-11",
-        "avg": 28.58,
+        "avg": 28.57,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-04-11 12:00:00",
-            "value": 28.58
+            "value": 28.57
         },
         "last": {
             "date": "2026-04-11 12:00:00",
-            "value": 28.58
+            "value": 28.57
         },
-        "max": 28.58,
-        "median": 28.58,
-        "min": 28.58,
+        "max": 28.57,
+        "median": 28.57,
+        "min": 28.57,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -13586,20 +13567,20 @@
     },
     {
         "_id": "2026-04-15",
-        "avg": 28.8,
+        "avg": 28.79,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-04-15 12:00:00",
-            "value": 28.8
+            "value": 28.79
         },
         "last": {
             "date": "2026-04-15 12:00:00",
-            "value": 28.8
+            "value": 28.79
         },
-        "max": 28.8,
-        "median": 28.8,
-        "min": 28.8,
+        "max": 28.79,
+        "median": 28.79,
+        "min": 28.79,
         "offer": "General",
         "trmi": "estimated"
     },
@@ -13681,59 +13662,470 @@
     },
     {
         "_id": "2026-04-21",
-        "avg": 27.15,
-        "count_values": 13,
+        "avg": 28.77,
+        "count_values": 0,
         "cur": "MXN",
         "first": {
-            "date": "2026-04-21 11:28:21",
-            "value": 29.0
+            "date": "2026-04-21 12:00:00",
+            "value": 28.77
         },
         "last": {
-            "date": "2026-04-21 12:26:23",
-            "value": 27.0
+            "date": "2026-04-21 12:00:00",
+            "value": 28.77
         },
-        "max": 29.0,
-        "median": 27.0,
-        "min": 27.0,
+        "max": 28.77,
+        "median": 28.77,
+        "min": 28.77,
         "offer": "General",
-        "trmi": "true"
+        "trmi": "estimated"
     },
     {
         "_id": "2026-04-22",
-        "avg": 29.24,
+        "avg": 28.86,
         "count_values": 0,
         "cur": "MXN",
         "first": {
             "date": "2026-04-22 12:00:00",
-            "value": 29.24
+            "value": 28.86
         },
         "last": {
             "date": "2026-04-22 12:00:00",
-            "value": 29.24
+            "value": 28.86
         },
-        "max": 29.24,
-        "median": 29.24,
-        "min": 29.24,
+        "max": 28.86,
+        "median": 28.86,
+        "min": 28.86,
         "offer": "General",
         "trmi": "estimated"
     },
     {
         "_id": "2026-04-23",
-        "avg": 32.0,
-        "avg_bayes": 29.49,
-        "ema": 29.52,
-        "alpha": 0.1,
+        "avg": 32.19,
+        "avg_bayes": 31.84,
+        "ema": 32.0,
+        "alpha": 0.3,
         "mad": 0.0,
         "ci_low": 32.0,
         "ci_high": 32.0,
-        "count_values": 2,
+        "count_values": 168,
+        "values": [
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            34.5,
+            32.0,
+            32.0,
+            34.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            34.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            34.5,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            34.5,
+            32.0,
+            32.0,
+            32.0,
+            40.0,
+            34.5,
+            34.5,
+            34.5,
+            34.5,
+            34.5
+        ],
+        "timestamps": [
+            "2026-04-23 00:06:39",
+            "2026-04-23 06:09:53",
+            "2026-04-23 06:11:58",
+            "2026-04-23 06:26:14",
+            "2026-04-23 06:28:12",
+            "2026-04-23 06:42:29",
+            "2026-04-23 06:44:24",
+            "2026-04-23 06:58:23",
+            "2026-04-23 07:00:13",
+            "2026-04-23 07:14:47",
+            "2026-04-23 07:16:25",
+            "2026-04-23 07:30:14",
+            "2026-04-23 07:32:13",
+            "2026-04-23 07:45:56",
+            "2026-04-23 07:47:45",
+            "2026-04-23 08:01:22",
+            "2026-04-23 08:03:02",
+            "2026-04-23 08:16:21",
+            "2026-04-23 08:18:01",
+            "2026-04-23 08:31:59",
+            "2026-04-23 08:33:36",
+            "2026-04-23 08:47:16",
+            "2026-04-23 08:48:53",
+            "2026-04-23 09:42:28",
+            "2026-04-23 09:44:16",
+            "2026-04-23 09:59:24",
+            "2026-04-23 10:01:14",
+            "2026-04-23 10:14:54",
+            "2026-04-23 10:20:17",
+            "2026-04-23 10:21:16",
+            "2026-04-23 10:31:40",
+            "2026-04-23 10:32:53",
+            "2026-04-23 10:43:36",
+            "2026-04-23 10:44:58",
+            "2026-04-23 10:55:10",
+            "2026-04-23 10:56:45",
+            "2026-04-23 11:03:49",
+            "2026-04-23 11:07:19",
+            "2026-04-23 11:08:23",
+            "2026-04-23 11:08:29",
+            "2026-04-23 11:09:03",
+            "2026-04-23 11:19:04",
+            "2026-04-23 11:20:08",
+            "2026-04-23 11:28:03",
+            "2026-04-23 11:30:48",
+            "2026-04-23 11:31:44",
+            "2026-04-23 11:42:16",
+            "2026-04-23 11:43:14",
+            "2026-04-23 11:53:05",
+            "2026-04-23 11:54:07",
+            "2026-04-23 12:04:34",
+            "2026-04-23 12:05:34",
+            "2026-04-23 12:16:32",
+            "2026-04-23 12:17:43",
+            "2026-04-23 12:28:41",
+            "2026-04-23 12:29:46",
+            "2026-04-23 12:40:37",
+            "2026-04-23 12:41:49",
+            "2026-04-23 12:51:54",
+            "2026-04-23 12:53:07",
+            "2026-04-23 13:04:03",
+            "2026-04-23 13:05:00",
+            "2026-04-23 13:15:14",
+            "2026-04-23 13:16:27",
+            "2026-04-23 13:27:02",
+            "2026-04-23 13:28:20",
+            "2026-04-23 13:38:03",
+            "2026-04-23 13:39:26",
+            "2026-04-23 13:49:50",
+            "2026-04-23 13:50:51",
+            "2026-04-23 14:02:11",
+            "2026-04-23 14:03:10",
+            "2026-04-23 14:13:21",
+            "2026-04-23 14:13:45",
+            "2026-04-23 14:14:22",
+            "2026-04-23 14:24:40",
+            "2026-04-23 14:25:43",
+            "2026-04-23 14:36:14",
+            "2026-04-23 14:37:18",
+            "2026-04-23 14:48:16",
+            "2026-04-23 14:49:13",
+            "2026-04-23 14:59:05",
+            "2026-04-23 15:00:03",
+            "2026-04-23 15:10:47",
+            "2026-04-23 15:12:16",
+            "2026-04-23 15:22:30",
+            "2026-04-23 15:23:44",
+            "2026-04-23 15:33:33",
+            "2026-04-23 15:34:35",
+            "2026-04-23 15:44:49",
+            "2026-04-23 15:45:45",
+            "2026-04-23 15:55:56",
+            "2026-04-23 15:57:03",
+            "2026-04-23 16:07:52",
+            "2026-04-23 16:08:50",
+            "2026-04-23 16:19:26",
+            "2026-04-23 16:20:21",
+            "2026-04-23 16:30:17",
+            "2026-04-23 16:31:17",
+            "2026-04-23 16:41:36",
+            "2026-04-23 16:42:40",
+            "2026-04-23 16:52:57",
+            "2026-04-23 16:53:52",
+            "2026-04-23 17:03:47",
+            "2026-04-23 17:04:58",
+            "2026-04-23 17:14:33",
+            "2026-04-23 17:15:41",
+            "2026-04-23 17:25:30",
+            "2026-04-23 17:26:26",
+            "2026-04-23 17:36:51",
+            "2026-04-23 17:38:25",
+            "2026-04-23 17:49:06",
+            "2026-04-23 17:50:06",
+            "2026-04-23 18:00:19",
+            "2026-04-23 18:01:22",
+            "2026-04-23 18:11:25",
+            "2026-04-23 18:12:25",
+            "2026-04-23 18:22:51",
+            "2026-04-23 18:23:57",
+            "2026-04-23 18:35:24",
+            "2026-04-23 18:36:58",
+            "2026-04-23 18:47:42",
+            "2026-04-23 18:49:13",
+            "2026-04-23 18:59:46",
+            "2026-04-23 19:00:47",
+            "2026-04-23 19:10:06",
+            "2026-04-23 19:10:19",
+            "2026-04-23 19:10:53",
+            "2026-04-23 19:11:49",
+            "2026-04-23 19:16:51",
+            "2026-04-23 19:20:02",
+            "2026-04-23 19:20:46",
+            "2026-04-23 19:22:19",
+            "2026-04-23 19:23:14",
+            "2026-04-23 19:56:04",
+            "2026-04-23 20:00:15",
+            "2026-04-23 20:05:57",
+            "2026-04-23 20:10:23",
+            "2026-04-23 21:20:10",
+            "2026-04-23 21:21:06",
+            "2026-04-23 21:30:43",
+            "2026-04-23 21:31:50",
+            "2026-04-23 21:42:43",
+            "2026-04-23 21:43:36",
+            "2026-04-23 21:53:08",
+            "2026-04-23 21:54:08",
+            "2026-04-23 22:04:50",
+            "2026-04-23 22:05:56",
+            "2026-04-23 22:16:45",
+            "2026-04-23 22:17:46",
+            "2026-04-23 22:27:39",
+            "2026-04-23 22:28:43",
+            "2026-04-23 22:38:55",
+            "2026-04-23 22:39:58",
+            "2026-04-23 22:50:39",
+            "2026-04-23 22:51:44",
+            "2026-04-23 23:02:04",
+            "2026-04-23 23:03:06",
+            "2026-04-23 23:13:47",
+            "2026-04-23 23:14:48",
+            "2026-04-23 23:25:43",
+            "2026-04-23 23:26:42",
+            "2026-04-23 23:36:32",
+            "2026-04-23 23:37:30",
+            "2026-04-23 23:47:23",
+            "2026-04-23 23:48:21",
+            "2026-04-23 23:58:35",
+            "2026-04-23 23:59:34"
+        ],
         "cur": "MXN",
         "first": {
-            "date": "2026-04-23 12:00:00",
+            "date": "2026-04-23 00:06:39",
             "value": 32.0
         },
         "last": {
-            "date": "2026-04-23 19:23:14",
+            "date": "2026-04-23 23:59:34",
+            "value": 32.0
+        },
+        "max": 40.0,
+        "median": 32.0,
+        "min": 32.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-04-24",
+        "avg": 32.0,
+        "avg_bayes": 31.13,
+        "ema": 32.0,
+        "alpha": 0.3,
+        "mad": 0.0,
+        "ci_low": 32.0,
+        "ci_high": 32.0,
+        "count_values": 21,
+        "values": [
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0,
+            32.0
+        ],
+        "timestamps": [
+            "2026-04-24 06:06:30",
+            "2026-04-24 06:07:40",
+            "2026-04-24 06:18:21",
+            "2026-04-24 06:19:14",
+            "2026-04-24 06:29:05",
+            "2026-04-24 06:30:23",
+            "2026-04-24 06:41:20",
+            "2026-04-24 06:42:34",
+            "2026-04-24 06:52:28",
+            "2026-04-24 06:53:26",
+            "2026-04-24 07:04:01",
+            "2026-04-24 07:05:12",
+            "2026-04-24 07:15:31",
+            "2026-04-24 07:16:33",
+            "2026-04-24 08:01:27",
+            "2026-04-24 08:02:27",
+            "2026-04-24 08:12:53",
+            "2026-04-24 08:25:16",
+            "2026-04-24 08:26:17",
+            "2026-04-24 09:39:00",
+            "2026-04-24 09:51:26"
+        ],
+        "cur": "MXN",
+        "first": {
+            "date": "2026-04-24 06:06:30",
+            "value": 32.0
+        },
+        "last": {
+            "date": "2026-04-24 09:51:26",
             "value": 32.0
         },
         "max": 32.0,
