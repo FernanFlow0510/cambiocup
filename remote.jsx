@@ -57,8 +57,8 @@ function transformNewFormat(entries) {
     .sort((a, b) => a._id.localeCompare(b._id));
   if (!sorted.length) return null;
   return sorted.map(e => {
-    // Pipeline: mediana → EWMA → preço principal
-    const price = Number(e.ema ?? e.median ?? e.avg_bayes ?? e.avg);
+    // Mostra a mediana observada do dia (preço real); ema fica disponível para tendência
+    const price = Number(e.median ?? e.avg_bayes ?? e.avg);
     return {
       d:         e._id,
       compra:    price,
@@ -99,15 +99,17 @@ function applyHistory(cfg, history, lastDatetime) {
   if (!history || !history.length) return cfg;
   const last = history[history.length - 1];
   const prev = history[history.length - 2] || last;
+  const raw = lastDatetime || (last.d + ' 00:00:00');
   return {
     ...cfg,
-    compra:      last.compra,
-    venda:       last.venda,
-    prev_compra: prev.compra,
-    prev_venda:  prev.venda,
+    compra:          last.compra,
+    venda:           last.venda,
+    prev_compra:     prev.compra,
+    prev_venda:      prev.venda,
     history,
-    lastUpdate:  lastDatetime ? timeAgoDatetime(lastDatetime) : timeAgo(last.d),
-    active:      isRecent(last.d),
+    lastUpdate:      lastDatetime ? timeAgoDatetime(lastDatetime) : timeAgo(last.d),
+    lastDatetimeRaw: raw,
+    active:          isRecent(last.d),
   };
 }
 
