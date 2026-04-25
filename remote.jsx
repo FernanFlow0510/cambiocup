@@ -58,11 +58,13 @@ function transformNewFormat(entries) {
   if (!sorted.length) return null;
   return sorted.map(e => {
     // Mostra a mediana observada do dia (preço real); ema fica disponível para tendência
-    const price = Number(e.median ?? e.avg_bayes ?? e.avg);
+    const price  = Number(e.median ?? e.avg_bayes ?? e.avg);
+    const compra = e.avg_compra != null ? Number(e.avg_compra) : price;
+    const venda  = e.avg_venda  != null ? Number(e.avg_venda)  : price;
     return {
       d:         e._id,
-      compra:    price,
-      venda:     price,
+      compra,
+      venda,
       ema:       e.ema     != null ? Number(e.ema)     : undefined,
       ci_low:    e.ci_low  != null ? Number(e.ci_low)  : undefined,
       ci_high:   e.ci_high != null ? Number(e.ci_high) : undefined,
