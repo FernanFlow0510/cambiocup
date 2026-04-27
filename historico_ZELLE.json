@@ -13870,27 +13870,30 @@
         "avg": 510.0,
         "avg_compra": 510.0,
         "avg_venda": null,
-        "avg_bayes": 587.18,
+        "avg_bayes": 581.42,
         "ema": 517.83,
         "alpha": 0.25,
         "mad": 0.0,
         "ci_low": 510.0,
         "ci_high": 510.0,
-        "count_values": 2,
-        "count_compra": 2,
+        "count_values": 3,
+        "count_compra": 3,
         "count_venda": 0,
         "values": [
+            510.0,
             510.0,
             510.0
         ],
         "values_compra": [
+            510.0,
             510.0,
             510.0
         ],
         "values_venda": [],
         "timestamps": [
             "2026-04-27 15:58:12|510.0",
-            "2026-04-27 16:18:18|510.0"
+            "2026-04-27 16:18:18|510.0",
+            "2026-04-27 16:41:46|510.0"
         ],
         "cur": "ZELLE",
         "first": {
@@ -13898,7 +13901,7 @@
             "value": 510.0
         },
         "last": {
-            "date": "2026-04-27 16:18:18",
+            "date": "2026-04-27 16:41:46",
             "value": 510.0
         },
         "max": 510.0,
