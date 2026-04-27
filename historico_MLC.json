@@ -13965,18 +13965,21 @@
         "mad": 0.0,
         "ci_low": 420.0,
         "ci_high": 420.0,
-        "count_values": 1,
+        "count_values": 2,
         "count_compra": 0,
-        "count_venda": 1,
+        "count_venda": 2,
         "values": [
+            420.0,
             420.0
         ],
         "values_compra": [],
         "values_venda": [
+            420.0,
             420.0
         ],
         "timestamps": [
-            "2026-04-26 20:01:20|420.0"
+            "2026-04-26 20:01:20|420.0",
+            "2026-04-26 21:00:38|420.0"
         ],
         "cur": "MLC",
         "first": {
@@ -13984,7 +13987,7 @@
             "value": 420.0
         },
         "last": {
-            "date": "2026-04-26 20:01:20",
+            "date": "2026-04-26 21:00:38",
             "value": 420.0
         },
         "max": 420.0,
