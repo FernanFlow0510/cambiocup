@@ -13953,44 +13953,5 @@
         "min": 412.5,
         "offer": "General",
         "trmi": "true"
-    },
-    {
-        "_id": "2026-04-27",
-        "avg": 417.5,
-        "avg_compra": null,
-        "avg_venda": 417.5,
-        "avg_bayes": 417.5,
-        "ema": 416.77,
-        "alpha": 0.25,
-        "mad": 0.0,
-        "ci_low": 417.5,
-        "ci_high": 417.5,
-        "count_values": 1,
-        "count_compra": 0,
-        "count_venda": 1,
-        "values": [
-            417.5
-        ],
-        "values_compra": [],
-        "values_venda": [
-            417.5
-        ],
-        "timestamps": [
-            "2026-04-27 15:01:22|417.5"
-        ],
-        "cur": "MLC",
-        "first": {
-            "date": "2026-04-27 15:01:22",
-            "value": 417.5
-        },
-        "last": {
-            "date": "2026-04-27 15:01:22",
-            "value": 417.5
-        },
-        "max": 417.5,
-        "median": 417.5,
-        "min": 417.5,
-        "offer": "General",
-        "trmi": "true"
     }
 ]
