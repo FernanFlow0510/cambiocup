@@ -14019,30 +14019,33 @@
     },
     {
         "_id": "2026-04-28",
-        "avg": 440.0,
+        "avg": 426.67,
         "avg_compra": null,
-        "avg_venda": 440.0,
+        "avg_venda": 426.67,
         "avg_bayes": 440.0,
         "ema": 422.64,
         "alpha": 0.25,
         "mad": 0.0,
         "ci_low": 440.0,
         "ci_high": 440.0,
-        "count_values": 2,
+        "count_values": 3,
         "count_compra": 0,
-        "count_venda": 2,
+        "count_venda": 3,
         "values": [
             440.0,
-            440.0
+            440.0,
+            400.0
         ],
         "values_compra": [],
         "values_venda": [
             440.0,
-            440.0
+            440.0,
+            400.0
         ],
         "timestamps": [
             "2026-04-28 11:00:27|440.0",
-            "2026-04-28 12:00:02|440.0"
+            "2026-04-28 12:00:02|440.0",
+            "2026-04-28 12:17:25|400.0"
         ],
         "cur": "MLC",
         "first": {
@@ -14050,12 +14053,12 @@
             "value": 440.0
         },
         "last": {
-            "date": "2026-04-28 12:00:02",
-            "value": 440.0
+            "date": "2026-04-28 12:17:25",
+            "value": 400.0
         },
         "max": 440.0,
         "median": 440.0,
-        "min": 440.0,
+        "min": 400.0,
         "offer": "General",
         "trmi": "true"
     }
