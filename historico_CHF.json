@@ -13833,5 +13833,44 @@
         "min": 530.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-04-28",
+        "avg": 610.0,
+        "avg_compra": 610.0,
+        "avg_venda": null,
+        "avg_bayes": 624.19,
+        "ema": 600.87,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 610.0,
+        "ci_high": 610.0,
+        "count_values": 1,
+        "count_compra": 1,
+        "count_venda": 0,
+        "values": [
+            610.0
+        ],
+        "values_compra": [
+            610.0
+        ],
+        "values_venda": [],
+        "timestamps": [
+            "2026-04-28 12:23:25|610.0"
+        ],
+        "cur": "CHF",
+        "first": {
+            "date": "2026-04-28 12:23:25",
+            "value": 610.0
+        },
+        "last": {
+            "date": "2026-04-28 12:23:25",
+            "value": 610.0
+        },
+        "max": 610.0,
+        "median": 610.0,
+        "min": 610.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
