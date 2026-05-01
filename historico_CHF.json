@@ -13872,5 +13872,92 @@
         "min": 610.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-04-29",
+        "avg": 591.25,
+        "avg_compra": 591.25,
+        "avg_venda": null,
+        "avg_bayes": 622.28,
+        "ema": 603.15,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 610.0,
+        "ci_high": 610.0,
+        "count_values": 4,
+        "count_compra": 4,
+        "count_venda": 0,
+        "values": [
+            535.0,
+            610.0,
+            610.0,
+            610.0
+        ],
+        "values_compra": [
+            535.0,
+            610.0,
+            610.0,
+            610.0
+        ],
+        "values_venda": [],
+        "timestamps": [
+            "2026-04-29 09:38:06|535.0",
+            "2026-04-29 15:02:45|610.0",
+            "2026-04-29 15:04:41|610.0",
+            "2026-04-29 15:19:52|610.0"
+        ],
+        "cur": "CHF",
+        "first": {
+            "date": "2026-04-29 09:38:06",
+            "value": 535.0
+        },
+        "last": {
+            "date": "2026-04-29 15:19:52",
+            "value": 610.0
+        },
+        "max": 610.0,
+        "median": 610.0,
+        "min": 535.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-04-30",
+        "avg": 610.0,
+        "avg_compra": 610.0,
+        "avg_venda": null,
+        "avg_bayes": 623.57,
+        "ema": 604.86,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 610.0,
+        "ci_high": 610.0,
+        "count_values": 1,
+        "count_compra": 1,
+        "count_venda": 0,
+        "values": [
+            610.0
+        ],
+        "values_compra": [
+            610.0
+        ],
+        "values_venda": [],
+        "timestamps": [
+            "2026-04-30 10:01:07|610.0"
+        ],
+        "cur": "CHF",
+        "first": {
+            "date": "2026-04-30 10:01:07",
+            "value": 610.0
+        },
+        "last": {
+            "date": "2026-04-30 10:01:07",
+            "value": 610.0
+        },
+        "max": 610.0,
+        "median": 610.0,
+        "min": 610.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
