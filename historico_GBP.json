@@ -14343,30 +14343,34 @@
     },
     {
         "_id": "2026-05-05",
-        "avg": 650.0,
-        "avg_compra": null,
+        "avg": 653.33,
+        "avg_compra": 660.0,
         "avg_venda": 650.0,
-        "avg_bayes": 716.22,
+        "avg_bayes": 707.86,
         "ema": 646.6,
         "alpha": 0.25,
         "mad": 0.0,
         "ci_low": 650.0,
         "ci_high": 650.0,
-        "count_values": 2,
-        "count_compra": 0,
+        "count_values": 3,
+        "count_compra": 1,
         "count_venda": 2,
         "values": [
             650.0,
-            650.0
+            650.0,
+            660.0
         ],
-        "values_compra": [],
+        "values_compra": [
+            660.0
+        ],
         "values_venda": [
             650.0,
             650.0
         ],
         "timestamps": [
             "2026-05-05 09:59:48|650.0",
-            "2026-05-05 10:00:00|650.0"
+            "2026-05-05 10:00:00|650.0",
+            "2026-05-05 16:03:11|660.0"
         ],
         "cur": "GBP",
         "first": {
@@ -14374,10 +14378,10 @@
             "value": 650.0
         },
         "last": {
-            "date": "2026-05-05 10:00:00",
-            "value": 650.0
+            "date": "2026-05-05 16:03:11",
+            "value": 660.0
         },
-        "max": 650.0,
+        "max": 660.0,
         "median": 650.0,
         "min": 650.0,
         "offer": "General",
