@@ -17764,27 +17764,31 @@
     },
     {
         "_id": "2026-05-15",
-        "avg": 115.0,
-        "avg_compra": null,
+        "avg": 117.5,
+        "avg_compra": 120.0,
         "avg_venda": 115.0,
-        "avg_bayes": 103.43,
-        "ema": 111.56,
+        "avg_bayes": 105.25,
+        "ema": 112.18,
         "alpha": 0.25,
-        "mad": 0.0,
-        "ci_low": 115.0,
-        "ci_high": 115.0,
-        "count_values": 1,
-        "count_compra": 0,
+        "mad": 5.0,
+        "ci_low": 110.0,
+        "ci_high": 125.0,
+        "count_values": 2,
+        "count_compra": 1,
         "count_venda": 1,
         "values": [
-            115.0
+            115.0,
+            120.0
         ],
-        "values_compra": [],
+        "values_compra": [
+            120.0
+        ],
         "values_venda": [
             115.0
         ],
         "timestamps": [
-            "2026-05-15 09:21:19|115.0"
+            "2026-05-15 09:21:19|115.0",
+            "2026-05-15 15:01:38|120.0"
         ],
         "cur": "BRL",
         "first": {
@@ -17792,12 +17796,54 @@
             "value": 115.0
         },
         "last": {
-            "date": "2026-05-15 09:21:19",
-            "value": 115.0
+            "date": "2026-05-15 15:01:38",
+            "value": 120.0
         },
-        "max": 115.0,
-        "median": 115.0,
+        "max": 120.0,
+        "median": 117.5,
         "min": 115.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-05-16",
+        "avg": 120.0,
+        "avg_compra": 120.0,
+        "avg_venda": null,
+        "avg_bayes": 105.49,
+        "ema": 114.14,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 120.0,
+        "ci_high": 120.0,
+        "count_values": 2,
+        "count_compra": 2,
+        "count_venda": 0,
+        "values": [
+            120.0,
+            120.0
+        ],
+        "values_compra": [
+            120.0,
+            120.0
+        ],
+        "values_venda": [],
+        "timestamps": [
+            "2026-05-16 09:56:18|120.0",
+            "2026-05-16 17:02:17|120.0"
+        ],
+        "cur": "BRL",
+        "first": {
+            "date": "2026-05-16 09:56:18",
+            "value": 120.0
+        },
+        "last": {
+            "date": "2026-05-16 17:02:17",
+            "value": 120.0
+        },
+        "max": 120.0,
+        "median": 120.0,
+        "min": 120.0,
         "offer": "General",
         "trmi": "true"
     }
