@@ -15302,5 +15302,93 @@
         "min": 395.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-05-17",
+        "avg": 395.0,
+        "avg_compra": 395.0,
+        "avg_venda": null,
+        "avg_bayes": 395.0,
+        "ema": 406.11,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 395.0,
+        "ci_high": 395.0,
+        "count_values": 2,
+        "count_compra": 2,
+        "count_venda": 0,
+        "values": [
+            395.0,
+            395.0
+        ],
+        "values_compra": [
+            395.0,
+            395.0
+        ],
+        "values_venda": [],
+        "timestamps": [
+            "2026-05-17 08:45:55|395.0",
+            "2026-05-17 15:18:02|395.0"
+        ],
+        "cur": "MLC",
+        "first": {
+            "date": "2026-05-17 08:45:55",
+            "value": 395.0
+        },
+        "last": {
+            "date": "2026-05-17 15:18:02",
+            "value": 395.0
+        },
+        "max": 395.0,
+        "median": 395.0,
+        "min": 395.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-05-18",
+        "avg": 399.94,
+        "avg_compra": 397.5,
+        "avg_venda": 404.83,
+        "avg_bayes": 400.0,
+        "ema": 404.58,
+        "alpha": 0.25,
+        "mad": 4.83,
+        "ci_low": 392.75,
+        "ci_high": 407.25,
+        "count_values": 3,
+        "count_compra": 2,
+        "count_venda": 1,
+        "values": [
+            395.0,
+            400.0,
+            404.83
+        ],
+        "values_compra": [
+            395.0,
+            400.0
+        ],
+        "values_venda": [
+            404.83
+        ],
+        "timestamps": [
+            "2026-05-18 07:06:19|395.0",
+            "2026-05-18 13:18:33|400.0",
+            "2026-05-18 15:00:01|404.83"
+        ],
+        "cur": "MLC",
+        "first": {
+            "date": "2026-05-18 07:06:19",
+            "value": 395.0
+        },
+        "last": {
+            "date": "2026-05-18 15:00:01",
+            "value": 404.83
+        },
+        "max": 404.83,
+        "median": 400.0,
+        "min": 395.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
