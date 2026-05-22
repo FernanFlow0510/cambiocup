@@ -16495,5 +16495,44 @@
         "min": 33.55,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-05-22",
+        "avg": 34.67,
+        "avg_compra": null,
+        "avg_venda": 34.67,
+        "avg_bayes": 30.75,
+        "ema": 34.1,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 34.67,
+        "ci_high": 34.67,
+        "count_values": 1,
+        "count_compra": 0,
+        "count_venda": 1,
+        "values": [
+            34.67
+        ],
+        "values_compra": [],
+        "values_venda": [
+            34.67
+        ],
+        "timestamps": [
+            "2026-05-22 10:00:44|34.67"
+        ],
+        "cur": "MXN",
+        "first": {
+            "date": "2026-05-22 10:00:44",
+            "value": 34.67
+        },
+        "last": {
+            "date": "2026-05-22 10:00:44",
+            "value": 34.67
+        },
+        "max": 34.67,
+        "median": 34.67,
+        "min": 34.67,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
