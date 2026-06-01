@@ -18044,5 +18044,44 @@
         "min": 97.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-06-01",
+        "avg": 105.0,
+        "avg_compra": null,
+        "avg_venda": 105.0,
+        "avg_bayes": 109.64,
+        "ema": 110.38,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 105.0,
+        "ci_high": 105.0,
+        "count_values": 1,
+        "count_compra": 0,
+        "count_venda": 1,
+        "values": [
+            105.0
+        ],
+        "values_compra": [],
+        "values_venda": [
+            105.0
+        ],
+        "timestamps": [
+            "2026-06-01 09:36:21|105.0"
+        ],
+        "cur": "BRL",
+        "first": {
+            "date": "2026-06-01 09:36:21",
+            "value": 105.0
+        },
+        "last": {
+            "date": "2026-06-01 09:36:21",
+            "value": 105.0
+        },
+        "max": 105.0,
+        "median": 105.0,
+        "min": 105.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
