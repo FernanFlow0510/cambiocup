@@ -14798,5 +14798,47 @@
         "min": 700.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-06-05",
+        "avg": 700.0,
+        "avg_compra": null,
+        "avg_venda": 700.0,
+        "avg_bayes": 785.97,
+        "ema": 694.18,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 700.0,
+        "ci_high": 700.0,
+        "count_values": 2,
+        "count_compra": 0,
+        "count_venda": 2,
+        "values": [
+            700.0,
+            700.0
+        ],
+        "values_compra": [],
+        "values_venda": [
+            700.0,
+            700.0
+        ],
+        "timestamps": [
+            "2026-06-05 10:37:21|700.0",
+            "2026-06-05 10:37:37|700.0"
+        ],
+        "cur": "GBP",
+        "first": {
+            "date": "2026-06-05 10:37:21",
+            "value": 700.0
+        },
+        "last": {
+            "date": "2026-06-05 10:37:37",
+            "value": 700.0
+        },
+        "max": 700.0,
+        "median": 700.0,
+        "min": 700.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
