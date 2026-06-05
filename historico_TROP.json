@@ -16078,24 +16078,27 @@
         "avg": 575.0,
         "avg_compra": 575.0,
         "avg_venda": null,
-        "avg_bayes": 615.68,
+        "avg_bayes": 599.91,
         "ema": 580.21,
         "alpha": 0.25,
         "mad": 0.0,
         "ci_low": 575.0,
         "ci_high": 575.0,
-        "count_values": 1,
-        "count_compra": 1,
+        "count_values": 2,
+        "count_compra": 2,
         "count_venda": 0,
         "values": [
+            575.0,
             575.0
         ],
         "values_compra": [
+            575.0,
             575.0
         ],
         "values_venda": [],
         "timestamps": [
-            "2026-06-05 10:11:23|575.0"
+            "2026-06-05 10:11:23|575.0",
+            "2026-06-05 14:04:34|575.0"
         ],
         "cur": "TROP",
         "first": {
@@ -16103,7 +16106,7 @@
             "value": 575.0
         },
         "last": {
-            "date": "2026-06-05 10:11:23",
+            "date": "2026-06-05 14:04:34",
             "value": 575.0
         },
         "max": 575.0,
