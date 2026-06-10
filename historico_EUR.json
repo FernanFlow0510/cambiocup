@@ -43476,18 +43476,21 @@
         "mad": 0.0,
         "ci_low": 635.0,
         "ci_high": 635.0,
-        "count_values": 1,
-        "count_compra": 1,
+        "count_values": 2,
+        "count_compra": 2,
         "count_venda": 0,
         "values": [
+            635.0,
             635.0
         ],
         "values_compra": [
+            635.0,
             635.0
         ],
         "values_venda": [],
         "timestamps": [
-            "2026-06-09 11:32:42|635.0"
+            "2026-06-09 11:32:42|635.0",
+            "2026-06-09 16:57:13|635.0"
         ],
         "cur": "EUR",
         "first": {
@@ -43495,7 +43498,7 @@
             "value": 635.0
         },
         "last": {
-            "date": "2026-06-09 11:32:42",
+            "date": "2026-06-09 16:57:13",
             "value": 635.0
         },
         "max": 635.0,
