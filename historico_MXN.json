@@ -17419,17 +17419,17 @@
     },
     {
         "_id": "2026-06-12",
-        "avg": 34.95,
-        "avg_compra": null,
+        "avg": 35.35,
+        "avg_compra": 41.0,
         "avg_venda": 34.95,
-        "avg_bayes": 31.96,
-        "ema": 34.79,
+        "avg_bayes": 32.08,
+        "ema": 34.8,
         "alpha": 0.8,
         "mad": 0.34,
-        "ci_low": 34.51,
-        "ci_high": 35.53,
-        "count_values": 14,
-        "count_compra": 0,
+        "ci_low": 34.52,
+        "ci_high": 35.54,
+        "count_values": 15,
+        "count_compra": 1,
         "count_venda": 14,
         "values": [
             34.38,
@@ -17445,9 +17445,12 @@
             34.73,
             35.03,
             35.38,
-            35.74
+            35.74,
+            41.0
         ],
-        "values_compra": [],
+        "values_compra": [
+            41.0
+        ],
         "values_venda": [
             34.38,
             34.22,
@@ -17478,7 +17481,8 @@
             "2026-06-12 19:00:51|34.73",
             "2026-06-12 20:00:47|35.03",
             "2026-06-12 21:00:18|35.38",
-            "2026-06-12 22:00:09|35.74"
+            "2026-06-12 22:00:09|35.74",
+            "2026-06-12 22:29:04|41.0"
         ],
         "cur": "MXN",
         "first": {
@@ -17486,12 +17490,51 @@
             "value": 34.38
         },
         "last": {
-            "date": "2026-06-12 22:00:09",
-            "value": 35.74
+            "date": "2026-06-12 22:29:04",
+            "value": 41.0
         },
-        "max": 35.74,
-        "median": 35.02,
+        "max": 41.0,
+        "median": 35.03,
         "min": 34.07,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-06-13",
+        "avg": 36.2,
+        "avg_compra": null,
+        "avg_venda": 36.2,
+        "avg_bayes": 28.98,
+        "ema": 35.15,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 36.2,
+        "ci_high": 36.2,
+        "count_values": 1,
+        "count_compra": 0,
+        "count_venda": 1,
+        "values": [
+            36.2
+        ],
+        "values_compra": [],
+        "values_venda": [
+            36.2
+        ],
+        "timestamps": [
+            "2026-06-13 11:00:17|36.2"
+        ],
+        "cur": "MXN",
+        "first": {
+            "date": "2026-06-13 11:00:17",
+            "value": 36.2
+        },
+        "last": {
+            "date": "2026-06-13 11:00:17",
+            "value": 36.2
+        },
+        "max": 36.2,
+        "median": 36.2,
+        "min": 36.2,
         "offer": "General",
         "trmi": "true"
     }
