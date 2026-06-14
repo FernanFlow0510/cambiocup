@@ -43795,5 +43795,47 @@
         "min": 660.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-06-14",
+        "avg": 632.5,
+        "avg_compra": 632.5,
+        "avg_venda": null,
+        "avg_bayes": 632.5,
+        "ema": 652.19,
+        "alpha": 0.25,
+        "mad": 15.0,
+        "ci_low": 610.0,
+        "ci_high": 655.0,
+        "count_values": 2,
+        "count_compra": 2,
+        "count_venda": 0,
+        "values": [
+            625.0,
+            640.0
+        ],
+        "values_compra": [
+            625.0,
+            640.0
+        ],
+        "values_venda": [],
+        "timestamps": [
+            "2026-06-14 18:37:53|625.0",
+            "2026-06-14 18:37:53|640.0"
+        ],
+        "cur": "EUR",
+        "first": {
+            "date": "2026-06-14 18:37:53",
+            "value": 625.0
+        },
+        "last": {
+            "date": "2026-06-14 18:37:53",
+            "value": 640.0
+        },
+        "max": 640.0,
+        "median": 632.5,
+        "min": 625.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
