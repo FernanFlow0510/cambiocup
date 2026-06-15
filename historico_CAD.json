@@ -18459,5 +18459,24 @@
         "min": 400.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-06-14",
+        "avg": 347.45,
+        "count_values": 0,
+        "cur": "CAD",
+        "first": {
+            "date": "2026-06-14 23:59:00",
+            "value": 347.45
+        },
+        "last": {
+            "date": "2026-06-14 23:59:00",
+            "value": 347.45
+        },
+        "max": 347.45,
+        "median": 347.45,
+        "min": 347.45,
+        "offer": "General",
+        "trmi": "estimated"
     }
 ]
