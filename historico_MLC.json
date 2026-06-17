@@ -17620,18 +17620,21 @@
         "mad": 0.0,
         "ci_low": 500.0,
         "ci_high": 500.0,
-        "count_values": 1,
+        "count_values": 2,
         "count_compra": 0,
-        "count_venda": 1,
+        "count_venda": 2,
         "values": [
+            500.0,
             500.0
         ],
         "values_compra": [],
         "values_venda": [
+            500.0,
             500.0
         ],
         "timestamps": [
-            "2026-06-17 00:00:58|500.0"
+            "2026-06-17 00:00:58|500.0",
+            "2026-06-17 01:01:03|500.0"
         ],
         "cur": "MLC",
         "first": {
@@ -17639,7 +17642,7 @@
             "value": 500.0
         },
         "last": {
-            "date": "2026-06-17 00:00:58",
+            "date": "2026-06-17 01:01:03",
             "value": 500.0
         },
         "max": 500.0,
