@@ -17809,5 +17809,24 @@
         "min": 32.23,
         "offer": "General",
         "trmi": "estimated"
+    },
+    {
+        "_id": "2026-06-25",
+        "avg": 32.02,
+        "count_values": 0,
+        "cur": "MXN",
+        "first": {
+            "date": "2026-06-25 23:59:00",
+            "value": 32.02
+        },
+        "last": {
+            "date": "2026-06-25 23:59:00",
+            "value": 32.02
+        },
+        "max": 32.02,
+        "median": 32.02,
+        "min": 32.02,
+        "offer": "General",
+        "trmi": "estimated"
     }
 ]
