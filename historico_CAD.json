@@ -18726,27 +18726,30 @@
         "avg": 395.0,
         "avg_compra": 395.0,
         "avg_venda": null,
-        "avg_bayes": 390.51,
+        "avg_bayes": 390.75,
         "ema": 391.81,
         "alpha": 0.25,
         "mad": 0.0,
         "ci_low": 395.0,
         "ci_high": 395.0,
-        "count_values": 2,
-        "count_compra": 2,
+        "count_values": 3,
+        "count_compra": 3,
         "count_venda": 0,
         "values": [
+            395.0,
             395.0,
             395.0
         ],
         "values_compra": [
+            395.0,
             395.0,
             395.0
         ],
         "values_venda": [],
         "timestamps": [
             "2026-06-27 12:38:18|395.0",
-            "2026-06-27 12:39:45|395.0"
+            "2026-06-27 12:39:45|395.0",
+            "2026-06-27 12:52:46|395.0"
         ],
         "cur": "CAD",
         "first": {
@@ -18754,7 +18757,7 @@
             "value": 395.0
         },
         "last": {
-            "date": "2026-06-27 12:39:45",
+            "date": "2026-06-27 12:52:46",
             "value": 395.0
         },
         "max": 395.0,
