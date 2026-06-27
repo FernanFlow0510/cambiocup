@@ -18626,5 +18626,44 @@
         "min": 580.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-06-27",
+        "avg": 659.33,
+        "avg_compra": null,
+        "avg_venda": 659.33,
+        "avg_bayes": 667.53,
+        "ema": 656.46,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 659.33,
+        "ci_high": 659.33,
+        "count_values": 1,
+        "count_compra": 0,
+        "count_venda": 1,
+        "values": [
+            659.33
+        ],
+        "values_compra": [],
+        "values_venda": [
+            659.33
+        ],
+        "timestamps": [
+            "2026-06-27 00:00:38|659.33"
+        ],
+        "cur": "ZELLE",
+        "first": {
+            "date": "2026-06-27 00:00:38",
+            "value": 659.33
+        },
+        "last": {
+            "date": "2026-06-27 00:00:38",
+            "value": 659.33
+        },
+        "max": 659.33,
+        "median": 659.33,
+        "min": 659.33,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
