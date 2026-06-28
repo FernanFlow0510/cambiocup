@@ -14130,5 +14130,24 @@
         "min": 693.15,
         "offer": "General",
         "trmi": "estimated"
+    },
+    {
+        "_id": "2026-06-27",
+        "avg": 694.19,
+        "count_values": 0,
+        "cur": "CHF",
+        "first": {
+            "date": "2026-06-27 23:59:00",
+            "value": 694.19
+        },
+        "last": {
+            "date": "2026-06-27 23:59:00",
+            "value": 694.19
+        },
+        "max": 694.19,
+        "median": 694.19,
+        "min": 694.19,
+        "offer": "General",
+        "trmi": "estimated"
     }
 ]
