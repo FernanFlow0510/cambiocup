@@ -16773,5 +16773,24 @@
         "min": 620.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-06-27",
+        "avg": 609.75,
+        "count_values": 0,
+        "cur": "TROP",
+        "first": {
+            "date": "2026-06-27 23:59:00",
+            "value": 609.75
+        },
+        "last": {
+            "date": "2026-06-27 23:59:00",
+            "value": 609.75
+        },
+        "max": 609.75,
+        "median": 609.75,
+        "min": 609.75,
+        "offer": "General",
+        "trmi": "estimated"
     }
 ]
