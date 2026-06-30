@@ -15063,27 +15063,30 @@
         "avg": 700.0,
         "avg_compra": 700.0,
         "avg_venda": null,
-        "avg_bayes": 782.59,
+        "avg_bayes": 776.24,
         "ema": 773.98,
         "alpha": 0.25,
         "mad": 0.0,
         "ci_low": 700.0,
         "ci_high": 700.0,
-        "count_values": 2,
-        "count_compra": 2,
+        "count_values": 3,
+        "count_compra": 3,
         "count_venda": 0,
         "values": [
+            700.0,
             700.0,
             700.0
         ],
         "values_compra": [
+            700.0,
             700.0,
             700.0
         ],
         "values_venda": [],
         "timestamps": [
             "2026-06-30 12:58:55|700.0",
-            "2026-06-30 15:07:21|700.0"
+            "2026-06-30 15:07:21|700.0",
+            "2026-06-30 16:42:31|700.0"
         ],
         "cur": "GBP",
         "first": {
@@ -15091,7 +15094,7 @@
             "value": 700.0
         },
         "last": {
-            "date": "2026-06-30 15:07:21",
+            "date": "2026-06-30 16:42:31",
             "value": 700.0
         },
         "max": 700.0,
