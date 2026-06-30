@@ -18416,5 +18416,24 @@
         "min": 111.61,
         "offer": "General",
         "trmi": "estimated"
+    },
+    {
+        "_id": "2026-06-29",
+        "avg": 111.4,
+        "count_values": 0,
+        "cur": "BRL",
+        "first": {
+            "date": "2026-06-29 23:59:00",
+            "value": 111.4
+        },
+        "last": {
+            "date": "2026-06-29 23:59:00",
+            "value": 111.4
+        },
+        "max": 111.4,
+        "median": 111.4,
+        "min": 111.4,
+        "offer": "General",
+        "trmi": "estimated"
     }
 ]
