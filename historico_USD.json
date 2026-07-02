@@ -59396,18 +59396,21 @@
         "mad": 0.0,
         "ci_low": 590.0,
         "ci_high": 590.0,
-        "count_values": 1,
+        "count_values": 2,
         "count_compra": 0,
-        "count_venda": 1,
+        "count_venda": 2,
         "values": [
+            590.0,
             590.0
         ],
         "values_compra": [],
         "values_venda": [
+            590.0,
             590.0
         ],
         "timestamps": [
-            "2026-07-02 01:02:56|590.0"
+            "2026-07-02 01:02:56|590.0",
+            "2026-07-02 04:38:29|590.0"
         ],
         "cur": "USD",
         "first": {
@@ -59415,7 +59418,7 @@
             "value": 590.0
         },
         "last": {
-            "date": "2026-07-02 01:02:56",
+            "date": "2026-07-02 04:38:29",
             "value": 590.0
         },
         "max": 590.0,
