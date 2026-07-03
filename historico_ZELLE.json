@@ -19338,27 +19338,30 @@
     },
     {
         "_id": "2026-07-03",
-        "avg": 636.88,
+        "avg": 636.8,
         "avg_compra": null,
-        "avg_venda": 636.88,
-        "avg_bayes": 665.06,
+        "avg_venda": 636.8,
+        "avg_bayes": 662.7,
         "ema": 639.1,
         "alpha": 0.1,
-        "mad": 0.0,
-        "ci_low": 636.88,
-        "ci_high": 636.88,
-        "count_values": 1,
+        "mad": 0.17,
+        "ci_low": 636.54,
+        "ci_high": 637.05,
+        "count_values": 2,
         "count_compra": 0,
-        "count_venda": 1,
+        "count_venda": 2,
         "values": [
-            636.88
+            636.88,
+            636.71
         ],
         "values_compra": [],
         "values_venda": [
-            636.88
+            636.88,
+            636.71
         ],
         "timestamps": [
-            "2026-07-03 00:00:39|636.88"
+            "2026-07-03 00:00:39|636.88",
+            "2026-07-03 01:00:24|636.71"
         ],
         "cur": "ZELLE",
         "first": {
@@ -19366,12 +19369,12 @@
             "value": 636.88
         },
         "last": {
-            "date": "2026-07-03 00:00:39",
-            "value": 636.88
+            "date": "2026-07-03 01:00:24",
+            "value": 636.71
         },
         "max": 636.88,
-        "median": 636.88,
-        "min": 636.88,
+        "median": 636.8,
+        "min": 636.71,
         "offer": "General",
         "trmi": "true"
     }
