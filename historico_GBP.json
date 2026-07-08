@@ -15349,5 +15349,24 @@
         "min": 785.85,
         "offer": "General",
         "trmi": "estimated"
+    },
+    {
+        "_id": "2026-07-07",
+        "avg": 760.5,
+        "count_values": 0,
+        "cur": "GBP",
+        "first": {
+            "date": "2026-07-07 23:59:00",
+            "value": 760.5
+        },
+        "last": {
+            "date": "2026-07-07 23:59:00",
+            "value": 760.5
+        },
+        "max": 760.5,
+        "median": 760.5,
+        "min": 760.5,
+        "offer": "General",
+        "trmi": "estimated"
     }
 ]
