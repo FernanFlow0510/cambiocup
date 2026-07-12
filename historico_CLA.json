@@ -12059,5 +12059,96 @@
         "min": 530.0,
         "offer": "General",
         "trmi": "true"
+    },
+    {
+        "_id": "2026-07-11",
+        "avg": 600.0,
+        "avg_compra": 600.0,
+        "avg_venda": null,
+        "avg_bayes": 600.0,
+        "ema": 580.39,
+        "alpha": 0.25,
+        "mad": 0.0,
+        "ci_low": 600.0,
+        "ci_high": 600.0,
+        "count_values": 1,
+        "count_compra": 1,
+        "count_venda": 0,
+        "values": [
+            600.0
+        ],
+        "values_compra": [
+            600.0
+        ],
+        "values_venda": [],
+        "timestamps": [
+            "2026-07-11 14:53:22|600.0"
+        ],
+        "cur": "CLA",
+        "first": {
+            "date": "2026-07-11 14:53:22",
+            "value": 600.0
+        },
+        "last": {
+            "date": "2026-07-11 14:53:22",
+            "value": 600.0
+        },
+        "max": 600.0,
+        "median": 600.0,
+        "min": 600.0,
+        "offer": "General",
+        "trmi": "true"
+    },
+    {
+        "_id": "2026-07-12",
+        "avg": 552.0,
+        "avg_compra": 600.0,
+        "avg_venda": 540.0,
+        "avg_bayes": 540.0,
+        "ema": 567.77,
+        "alpha": 0.3125,
+        "mad": 0.0,
+        "ci_low": 540.0,
+        "ci_high": 540.0,
+        "count_values": 5,
+        "count_compra": 1,
+        "count_venda": 4,
+        "values": [
+            540.0,
+            540.0,
+            600.0,
+            540.0,
+            540.0
+        ],
+        "values_compra": [
+            600.0
+        ],
+        "values_venda": [
+            540.0,
+            540.0,
+            540.0,
+            540.0
+        ],
+        "timestamps": [
+            "2026-07-12 07:44:13|540.0",
+            "2026-07-12 07:46:56|600.0",
+            "2026-07-12 07:59:30|540.0",
+            "2026-07-12 08:07:15|540.0",
+            "2026-07-12 08:33:22|540.0"
+        ],
+        "cur": "CLA",
+        "first": {
+            "date": "2026-07-12 07:44:13",
+            "value": 540.0
+        },
+        "last": {
+            "date": "2026-07-12 08:33:22",
+            "value": 540.0
+        },
+        "max": 600.0,
+        "median": 540.0,
+        "min": 540.0,
+        "offer": "General",
+        "trmi": "true"
     }
 ]
