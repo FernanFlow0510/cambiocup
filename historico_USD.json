@@ -59864,30 +59864,34 @@
     },
     {
         "_id": "2026-07-13",
-        "avg": 525.0,
-        "avg_compra": null,
+        "avg": 516.67,
+        "avg_compra": 500.0,
         "avg_venda": 525.0,
-        "avg_bayes": 525.0,
-        "ema": 550.54,
+        "avg_bayes": 500.0,
+        "ema": 544.29,
         "alpha": 0.25,
-        "mad": 50.0,
-        "ci_low": 450.0,
-        "ci_high": 600.0,
-        "count_values": 2,
-        "count_compra": 0,
+        "mad": 0.0,
+        "ci_low": 500.0,
+        "ci_high": 500.0,
+        "count_values": 3,
+        "count_compra": 1,
         "count_venda": 2,
         "values": [
             550.0,
+            500.0,
             500.0
         ],
-        "values_compra": [],
+        "values_compra": [
+            500.0
+        ],
         "values_venda": [
             550.0,
             500.0
         ],
         "timestamps": [
             "2026-07-13 09:37:48|500.0",
-            "2026-07-13 09:37:48|550.0"
+            "2026-07-13 09:37:48|550.0",
+            "2026-07-13 11:38:32|500.0"
         ],
         "cur": "USD",
         "first": {
@@ -59895,11 +59899,11 @@
             "value": 550.0
         },
         "last": {
-            "date": "2026-07-13 09:37:48",
+            "date": "2026-07-13 11:38:32",
             "value": 500.0
         },
         "max": 550.0,
-        "median": 525.0,
+        "median": 500.0,
         "min": 500.0,
         "offer": "General",
         "trmi": "true"
