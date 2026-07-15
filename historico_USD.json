@@ -59982,18 +59982,21 @@
         "mad": 0.0,
         "ci_low": 500.0,
         "ci_high": 500.0,
-        "count_values": 1,
-        "count_compra": 1,
+        "count_values": 2,
+        "count_compra": 2,
         "count_venda": 0,
         "values": [
+            500.0,
             500.0
         ],
         "values_compra": [
+            500.0,
             500.0
         ],
         "values_venda": [],
         "timestamps": [
-            "2026-07-15 07:50:43|500.0"
+            "2026-07-15 07:50:43|500.0",
+            "2026-07-15 08:14:31|500.0"
         ],
         "cur": "USD",
         "first": {
@@ -60001,7 +60004,7 @@
             "value": 500.0
         },
         "last": {
-            "date": "2026-07-15 07:50:43",
+            "date": "2026-07-15 08:14:31",
             "value": 500.0
         },
         "max": 500.0,
