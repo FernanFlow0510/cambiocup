@@ -12677,27 +12677,30 @@
     },
     {
         "_id": "2026-07-20",
-        "avg": 597.84,
+        "avg": 598.17,
         "avg_compra": null,
-        "avg_venda": 597.84,
-        "avg_bayes": 597.84,
-        "ema": 586.92,
+        "avg_venda": 598.17,
+        "avg_bayes": 598.17,
+        "ema": 587.0,
         "alpha": 0.25,
-        "mad": 0.0,
-        "ci_low": 597.84,
-        "ci_high": 597.84,
-        "count_values": 1,
+        "mad": 0.67,
+        "ci_low": 597.16,
+        "ci_high": 599.17,
+        "count_values": 2,
         "count_compra": 0,
-        "count_venda": 1,
+        "count_venda": 2,
         "values": [
-            597.84
+            597.84,
+            598.51
         ],
         "values_compra": [],
         "values_venda": [
-            597.84
+            597.84,
+            598.51
         ],
         "timestamps": [
-            "2026-07-20 08:00:03|597.84"
+            "2026-07-20 08:00:03|597.84",
+            "2026-07-20 09:01:32|598.51"
         ],
         "cur": "CLA",
         "first": {
@@ -12705,11 +12708,11 @@
             "value": 597.84
         },
         "last": {
-            "date": "2026-07-20 08:00:03",
-            "value": 597.84
+            "date": "2026-07-20 09:01:32",
+            "value": 598.51
         },
-        "max": 597.84,
-        "median": 597.84,
+        "max": 598.51,
+        "median": 598.17,
         "min": 597.84,
         "offer": "General",
         "trmi": "true"
